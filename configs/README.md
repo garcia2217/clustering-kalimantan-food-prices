@@ -8,7 +8,7 @@ This directory contains YAML configuration files for different data consolidatio
 
 **Standard full analysis configuration**
 
-git -   All 5 default commodities (comprehensive coverage)
+-   All 5 default commodities (comprehensive coverage)
 -   Years: 2022-2024 (recent data focus)
 -   All available cities (no filtering)
 -   Both CSV and Excel output

@@ -1,0 +1,8 @@
+# This file ensures the data/processed directory structure is preserved in git
+# while ignoring the actual processed files (which can be regenerated)
+
+# Consolidated data files will be created here:
+# - master_data_consolidated.csv
+# - master_data_consolidated.xlsx
+# - twelve_cities_consolidated.csv
+# etc.

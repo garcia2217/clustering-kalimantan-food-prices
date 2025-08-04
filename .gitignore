@@ -1,0 +1,254 @@
+# Food Price Consolidation Project - .gitignore
+# =================================================
+
+# Python
+# -------
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Poetry & Virtual Environments
+# ------------------------------
+poetry.lock  # Comment this out if you want to commit lock file
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.env
+.env.*
+
+# Data Files (Sensitive/Large)
+# ----------------------------
+# Raw data files - keep these local only
+data/raw/**
+!data/raw/.gitkeep
+
+# Processed data files - usually too large for git
+data/processed/**
+!data/processed/.gitkeep
+
+# Feature-engineered data - for future use
+data/features/**
+!data/features/.gitkeep
+
+# Analysis results - for future use
+data/results/**
+!data/results/.gitkeep
+
+# Allow small sample/test data if needed
+!data/*/sample_*
+!data/*/test_*
+
+# Logs & Temporary Files
+# ----------------------
+logs/**
+!logs/.gitkeep
+*.log
+food_price_consolidation.log
+
+# Jupyter Notebooks
+# ------------------
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+notebooks/**/*.nbconvert.ipynb
+notebooks/**/Untitled*.ipynb
+
+# Allow executed notebooks but ignore outputs for clean diffs
+# Uncomment the next line if you want to ignore all notebook outputs
+# notebooks/**/*.ipynb
+
+# Testing & Coverage
+# ------------------
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+
+# IDEs & Editors
+# --------------
+# VSCode
+.vscode/
+*.code-workspace
+
+# PyCharm
+.idea/
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Vim
+*.swp
+*.swo
+*~
+
+# Emacs
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+*.elc
+auto-save-list
+tramp
+.\#*
+
+# Operating System
+# ----------------
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+*.lnk
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# Linux
+*~
+.fuse_hidden*
+.directory
+.Trash-*
+.nfs*
+
+# Project Specific
+# ----------------
+# Temporary analysis files
+temp/
+tmp/
+scratch/
+
+# Local configuration overrides
+local_config.yaml
+private_config.yaml
+.env.local
+
+# Documentation builds
+docs/_build/
+site/
+
+# Database files (if any)
+*.db
+*.sqlite
+*.sqlite3
+
+# Excel temporary files
+~$*.xlsx
+~$*.xls
+
+# Backup files
+*.bak
+*.backup
+*.old
+*.orig
+
+# Compressed files (unless specifically needed)
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# Model files (for future ML work)
+models/**
+!models/.gitkeep
+*.pkl
+*.pickle
+*.joblib
+*.model
+
+# Plots and figures (optional - uncomment if you want to ignore)
+# plots/**
+# figures/**
+# *.png
+# *.jpg
+# *.jpeg
+# *.gif
+# *.svg
+
+# Configuration Templates
+# ------------------------
+# Keep template configs but ignore filled ones
+configs/local_*.yaml
+configs/private_*.yaml
+configs/*_local.yaml
+configs/*_private.yaml
+
+# Allow important configs to be committed
+!configs/default_*.yaml
+!configs/example_*.yaml
+!configs/template_*.yaml
+
+# Development Tools
+# -----------------
+.mypy_cache/
+.dmypy.json
+dmypy.json
+.pyre/
+.pytype/
+pylint-report.txt
+
+# Profiling
+*.prof
+*.lprof
+
+# Security
+# --------
+# Never commit sensitive information
+secrets.yaml
+credentials.json
+*.key
+*.pem
+*.p12
+*.pfx
+
+# Keep empty directories with .gitkeep files
+# -------------------------------------------
+# This ensures important directory structure is preserved
+# while ignoring the contents

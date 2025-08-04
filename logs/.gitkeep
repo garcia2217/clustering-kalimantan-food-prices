@@ -1,0 +1,5 @@
+# This file ensures the logs directory structure is preserved in git
+# while ignoring the actual log files
+#
+# Log files will be created here:
+# - food_price_consolidation.log

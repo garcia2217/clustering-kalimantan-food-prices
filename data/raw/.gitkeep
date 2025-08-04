@@ -1,0 +1,7 @@
+# This file ensures the data/raw directory structure is preserved in git
+# while ignoring the actual data files (which are too large/sensitive for git)
+
+# Place your Excel data files here organized by province/city/year:
+# data/raw/kalimantan-barat/kota-pontianak/2023.xlsx
+# data/raw/kalimantan-selatan/kota-banjarmasin/2023.xlsx
+# etc.
