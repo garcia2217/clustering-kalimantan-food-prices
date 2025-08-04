@@ -1,0 +1,2095 @@
+2025-08-04 08:24:33,266 - WARNING - No Excel files found matching criteria in data\raw
+2025-08-04 08:24:33,267 - INFO - Applied filters: Year range: 2018 to 2024, Cities: ['kab-sintang', 'kota-pontianak', 'kota-singkawang', 'kota-banjarmasin', 'kota-tanjung', 'kota-palangkaraya', 'kota-sampit', 'kota-balikpapan', 'kota-samarinda', 'kota-tarakan']
+2025-08-04 08:42:08,103 - INFO - Found 70 files after filtering (out of 80 total)
+2025-08-04 08:42:20,739 - INFO - Starting data consolidation pipeline...
+2025-08-04 08:42:20,740 - INFO - Starting consolidation in: C:\Users\UNTAR\Semester 7\FINAL THESIS CODE\clustering-food-prices-kalimantan\data\raw
+2025-08-04 08:42:20,744 - INFO - Found 70 files after filtering (out of 80 total)
+2025-08-04 08:42:20,745 - INFO - Found 70 Excel files to process
+2025-08-04 08:42:20,999 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:42:21,005 - INFO - Price conversion: 8091/8091 successful (100.0%)
+2025-08-04 08:42:21,008 - INFO - Date conversion: 8091/8091 successful (100.0%)
+2025-08-04 08:42:21,010 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:42:21,012 - INFO - Commodities: category (no null values)
+2025-08-04 08:42:21,013 - INFO - City: category (no null values)
+2025-08-04 08:42:21,013 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:42:21,014 - INFO -   Date range: 2018-01-01 00:00:00 to 2018-12-31 00:00:00
+2025-08-04 08:42:21,014 - INFO - Price: int64 (no null values)
+2025-08-04 08:42:21,016 - INFO -   Price range: 8,600 - 128,000
+2025-08-04 08:42:21,017 - INFO - Successfully processed 2018.xlsx for kab-sintang
+2025-08-04 08:42:21,182 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:42:21,187 - INFO - Price conversion: 8091/8091 successful (100.0%)
+2025-08-04 08:42:21,190 - INFO - Date conversion: 8091/8091 successful (100.0%)
+2025-08-04 08:42:21,192 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:42:21,193 - INFO - Commodities: category (no null values)
+2025-08-04 08:42:21,193 - INFO - City: category (no null values)
+2025-08-04 08:42:21,195 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:42:21,197 - INFO -   Date range: 2019-01-01 00:00:00 to 2019-12-31 00:00:00
+2025-08-04 08:42:21,197 - INFO - Price: int64 (no null values)
+2025-08-04 08:42:21,200 - INFO -   Price range: 8,400 - 130,000
+2025-08-04 08:42:21,205 - INFO - Successfully processed 2019.xlsx for kab-sintang
+2025-08-04 08:42:21,329 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:42:21,335 - INFO - Price conversion: 8122/8122 successful (100.0%)
+2025-08-04 08:42:21,338 - INFO - Date conversion: 8122/8122 successful (100.0%)
+2025-08-04 08:42:21,340 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:42:21,340 - INFO - Commodities: category (no null values)
+2025-08-04 08:42:21,341 - INFO - City: category (no null values)
+2025-08-04 08:42:21,342 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:42:21,343 - INFO -   Date range: 2020-01-01 00:00:00 to 2020-12-31 00:00:00
+2025-08-04 08:42:21,344 - INFO - Price: int64 (no null values)
+2025-08-04 08:42:21,345 - INFO -   Price range: 9,900 - 130,450
+2025-08-04 08:42:21,346 - INFO - Successfully processed 2020.xlsx for kab-sintang
+2025-08-04 08:42:21,439 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:42:21,445 - INFO - Price conversion: 8091/8091 successful (100.0%)
+2025-08-04 08:42:21,448 - INFO - Date conversion: 8091/8091 successful (100.0%)
+2025-08-04 08:42:21,449 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:42:21,450 - INFO - Commodities: category (no null values)
+2025-08-04 08:42:21,451 - INFO - City: category (no null values)
+2025-08-04 08:42:21,452 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:42:21,452 - INFO -   Date range: 2021-01-01 00:00:00 to 2021-12-31 00:00:00
+2025-08-04 08:42:21,453 - INFO - Price: int64 (no null values)
+2025-08-04 08:42:21,454 - INFO -   Price range: 9,350 - 242,500
+2025-08-04 08:42:21,455 - INFO - Successfully processed 2021.xlsx for kab-sintang
+2025-08-04 08:42:21,547 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:42:21,552 - INFO - Price conversion: 8060/8060 successful (100.0%)
+2025-08-04 08:42:21,555 - INFO - Date conversion: 8060/8060 successful (100.0%)
+2025-08-04 08:42:21,556 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:42:21,557 - INFO - Commodities: category (no null values)
+2025-08-04 08:42:21,558 - INFO - City: category (no null values)
+2025-08-04 08:42:21,558 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:42:21,560 - INFO -   Date range: 2022-01-03 00:00:00 to 2022-12-30 00:00:00
+2025-08-04 08:42:21,560 - INFO - Price: int64 (no null values)
+2025-08-04 08:42:21,562 - INFO -   Price range: 12,700 - 180,000
+2025-08-04 08:42:21,563 - INFO - Successfully processed 2022.xlsx for kab-sintang
+2025-08-04 08:42:21,653 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:42:21,659 - INFO - Price conversion: 8060/8060 successful (100.0%)
+2025-08-04 08:42:21,661 - INFO - Date conversion: 8060/8060 successful (100.0%)
+2025-08-04 08:42:21,664 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:42:21,665 - INFO - Commodities: category (no null values)
+2025-08-04 08:42:21,665 - INFO - City: category (no null values)
+2025-08-04 08:42:21,666 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:42:21,668 - INFO -   Date range: 2023-01-02 00:00:00 to 2023-12-29 00:00:00
+2025-08-04 08:42:21,668 - INFO - Price: int64 (no null values)
+2025-08-04 08:42:21,669 - INFO -   Price range: 11,900 - 275,000
+2025-08-04 08:42:21,670 - INFO - Successfully processed 2023.xlsx for kab-sintang
+2025-08-04 08:42:21,760 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:42:21,766 - INFO - Price conversion: 8122/8122 successful (100.0%)
+2025-08-04 08:42:21,768 - INFO - Date conversion: 8122/8122 successful (100.0%)
+2025-08-04 08:42:21,771 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:42:21,771 - INFO - Commodities: category (no null values)
+2025-08-04 08:42:21,772 - INFO - City: category (no null values)
+2025-08-04 08:42:21,773 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:42:21,774 - INFO -   Date range: 2024-01-01 00:00:00 to 2024-12-31 00:00:00
+2025-08-04 08:42:21,774 - INFO - Price: int64 (no null values)
+2025-08-04 08:42:21,775 - INFO -   Price range: 14,250 - 303,250
+2025-08-04 08:42:21,777 - INFO - Successfully processed 2024.xlsx for kab-sintang
+2025-08-04 08:42:21,894 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:42:21,897 - INFO - Price conversion: 3393/3393 successful (100.0%)
+2025-08-04 08:42:21,903 - INFO - Date conversion: 3393/3393 successful (100.0%)
+2025-08-04 08:42:21,904 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:42:21,905 - INFO - Commodities: category (no null values)
+2025-08-04 08:42:21,905 - INFO - City: category (no null values)
+2025-08-04 08:42:21,906 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:42:21,907 - INFO -   Date range: 2018-01-01 00:00:00 to 2018-12-31 00:00:00
+2025-08-04 08:42:21,908 - INFO - Price: int64 (no null values)
+2025-08-04 08:42:21,908 - INFO -   Price range: 12,900 - 39,900
+2025-08-04 08:42:21,910 - INFO - Successfully processed 2018.xlsx for kota-pontianak
+2025-08-04 08:42:21,969 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:42:21,972 - INFO - Price conversion: 3393/3393 successful (100.0%)
+2025-08-04 08:42:21,978 - INFO - Date conversion: 3393/3393 successful (100.0%)
+2025-08-04 08:42:21,981 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:42:21,982 - INFO - Commodities: category (no null values)
+2025-08-04 08:42:21,982 - INFO - City: category (no null values)
+2025-08-04 08:42:21,983 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:42:21,984 - INFO -   Date range: 2019-01-01 00:00:00 to 2019-12-31 00:00:00
+2025-08-04 08:42:21,985 - INFO - Price: int64 (no null values)
+2025-08-04 08:42:21,985 - INFO -   Price range: 13,000 - 39,500
+2025-08-04 08:42:21,987 - INFO - Successfully processed 2019.xlsx for kota-pontianak
+2025-08-04 08:42:22,047 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:42:22,050 - INFO - Price conversion: 3406/3406 successful (100.0%)
+2025-08-04 08:42:22,055 - INFO - Date conversion: 3406/3406 successful (100.0%)
+2025-08-04 08:42:22,057 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:42:22,058 - INFO - Commodities: category (no null values)
+2025-08-04 08:42:22,059 - INFO - City: category (no null values)
+2025-08-04 08:42:22,060 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:42:22,060 - INFO -   Date range: 2020-01-01 00:00:00 to 2020-12-31 00:00:00
+2025-08-04 08:42:22,061 - INFO - Price: int64 (no null values)
+2025-08-04 08:42:22,062 - INFO -   Price range: 12,950 - 62,650
+2025-08-04 08:42:22,063 - INFO - Successfully processed 2020.xlsx for kota-pontianak
+2025-08-04 08:42:22,123 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:42:22,126 - INFO - Price conversion: 3393/3393 successful (100.0%)
+2025-08-04 08:42:22,133 - INFO - Date conversion: 3393/3393 successful (100.0%)
+2025-08-04 08:42:22,136 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:42:22,136 - INFO - Commodities: category (no null values)
+2025-08-04 08:42:22,138 - INFO - City: category (no null values)
+2025-08-04 08:42:22,138 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:42:22,139 - INFO -   Date range: 2021-01-01 00:00:00 to 2021-12-31 00:00:00
+2025-08-04 08:42:22,140 - INFO - Price: int64 (no null values)
+2025-08-04 08:42:22,140 - INFO -   Price range: 12,850 - 40,400
+2025-08-04 08:42:22,141 - INFO - Successfully processed 2021.xlsx for kota-pontianak
+2025-08-04 08:42:22,202 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:42:22,205 - INFO - Price conversion: 3380/3380 successful (100.0%)
+2025-08-04 08:42:22,211 - INFO - Date conversion: 3380/3380 successful (100.0%)
+2025-08-04 08:42:22,213 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:42:22,214 - INFO - Commodities: category (no null values)
+2025-08-04 08:42:22,214 - INFO - City: category (no null values)
+2025-08-04 08:42:22,216 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:42:22,217 - INFO -   Date range: 2022-01-03 00:00:00 to 2022-12-30 00:00:00
+2025-08-04 08:42:22,218 - INFO - Price: int64 (no null values)
+2025-08-04 08:42:22,219 - INFO -   Price range: 12,900 - 72,500
+2025-08-04 08:42:22,220 - INFO - Successfully processed 2022.xlsx for kota-pontianak
+2025-08-04 08:42:22,280 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:42:22,283 - INFO - Price conversion: 3380/3380 successful (100.0%)
+2025-08-04 08:42:22,289 - INFO - Date conversion: 3380/3380 successful (100.0%)
+2025-08-04 08:42:22,291 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:42:22,292 - INFO - Commodities: category (no null values)
+2025-08-04 08:42:22,292 - INFO - City: category (no null values)
+2025-08-04 08:42:22,293 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:42:22,294 - INFO -   Date range: 2023-01-02 00:00:00 to 2023-12-29 00:00:00
+2025-08-04 08:42:22,295 - INFO - Price: int64 (no null values)
+2025-08-04 08:42:22,296 - INFO -   Price range: 13,750 - 53,900
+2025-08-04 08:42:22,297 - INFO - Successfully processed 2023.xlsx for kota-pontianak
+2025-08-04 08:42:22,390 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:42:22,396 - INFO - Price conversion: 8122/8122 successful (100.0%)
+2025-08-04 08:42:22,400 - INFO - Date conversion: 8122/8122 successful (100.0%)
+2025-08-04 08:42:22,402 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:42:22,402 - INFO - Commodities: category (no null values)
+2025-08-04 08:42:22,403 - INFO - City: category (no null values)
+2025-08-04 08:42:22,403 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:42:22,404 - INFO -   Date range: 2024-01-01 00:00:00 to 2024-12-31 00:00:00
+2025-08-04 08:42:22,405 - INFO - Price: int64 (no null values)
+2025-08-04 08:42:22,405 - INFO -   Price range: 13,000 - 160,000
+2025-08-04 08:42:22,407 - INFO - Successfully processed 2024.xlsx for kota-pontianak
+2025-08-04 08:42:22,470 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:42:22,473 - INFO - Price conversion: 3915/3915 successful (100.0%)
+2025-08-04 08:42:22,474 - INFO - Date conversion: 3915/3915 successful (100.0%)
+2025-08-04 08:42:22,477 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:42:22,478 - INFO - Commodities: category (no null values)
+2025-08-04 08:42:22,480 - INFO - City: category (no null values)
+2025-08-04 08:42:22,480 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:42:22,481 - INFO -   Date range: 2018-01-01 00:00:00 to 2018-12-31 00:00:00
+2025-08-04 08:42:22,482 - INFO - Price: int64 (no null values)
+2025-08-04 08:42:22,482 - INFO -   Price range: 9,500 - 42,000
+2025-08-04 08:42:22,483 - INFO - Successfully processed 2018.xlsx for kota-singkawang
+2025-08-04 08:42:22,544 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:42:22,547 - INFO - Price conversion: 3915/3915 successful (100.0%)
+2025-08-04 08:42:22,549 - INFO - Date conversion: 3915/3915 successful (100.0%)
+2025-08-04 08:42:22,550 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:42:22,551 - INFO - Commodities: category (no null values)
+2025-08-04 08:42:22,552 - INFO - City: category (no null values)
+2025-08-04 08:42:22,553 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:42:22,553 - INFO -   Date range: 2019-01-01 00:00:00 to 2019-12-31 00:00:00
+2025-08-04 08:42:22,554 - INFO - Price: int64 (no null values)
+2025-08-04 08:42:22,555 - INFO -   Price range: 9,750 - 40,750
+2025-08-04 08:42:22,556 - INFO - Successfully processed 2019.xlsx for kota-singkawang
+2025-08-04 08:42:22,619 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:42:22,622 - INFO - Price conversion: 3930/3930 successful (100.0%)
+2025-08-04 08:42:22,624 - INFO - Date conversion: 3930/3930 successful (100.0%)
+2025-08-04 08:42:22,626 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:42:22,627 - INFO - Commodities: category (no null values)
+2025-08-04 08:42:22,627 - INFO - City: category (no null values)
+2025-08-04 08:42:22,628 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:42:22,630 - INFO -   Date range: 2020-01-01 00:00:00 to 2020-12-31 00:00:00
+2025-08-04 08:42:22,630 - INFO - Price: int64 (no null values)
+2025-08-04 08:42:22,631 - INFO -   Price range: 9,900 - 58,750
+2025-08-04 08:42:22,632 - INFO - Successfully processed 2020.xlsx for kota-singkawang
+2025-08-04 08:42:22,784 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:42:22,787 - INFO - Price conversion: 3915/3915 successful (100.0%)
+2025-08-04 08:42:22,789 - INFO - Date conversion: 3915/3915 successful (100.0%)
+2025-08-04 08:42:22,791 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:42:22,792 - INFO - Commodities: category (no null values)
+2025-08-04 08:42:22,793 - INFO - City: category (no null values)
+2025-08-04 08:42:22,794 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:42:22,795 - INFO -   Date range: 2021-01-01 00:00:00 to 2021-12-31 00:00:00
+2025-08-04 08:42:22,795 - INFO - Price: int64 (no null values)
+2025-08-04 08:42:22,796 - INFO -   Price range: 10,000 - 41,250
+2025-08-04 08:42:22,797 - INFO - Successfully processed 2021.xlsx for kota-singkawang
+2025-08-04 08:42:22,861 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:42:22,865 - INFO - Price conversion: 3900/3900 successful (100.0%)
+2025-08-04 08:42:22,867 - INFO - Date conversion: 3900/3900 successful (100.0%)
+2025-08-04 08:42:22,869 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:42:22,870 - INFO - Commodities: category (no null values)
+2025-08-04 08:42:22,870 - INFO - City: category (no null values)
+2025-08-04 08:42:22,871 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:42:22,872 - INFO -   Date range: 2022-01-03 00:00:00 to 2022-12-30 00:00:00
+2025-08-04 08:42:22,873 - INFO - Price: int64 (no null values)
+2025-08-04 08:42:22,873 - INFO -   Price range: 9,750 - 44,500
+2025-08-04 08:42:22,874 - INFO - Successfully processed 2022.xlsx for kota-singkawang
+2025-08-04 08:42:22,937 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:42:22,940 - INFO - Price conversion: 3900/3900 successful (100.0%)
+2025-08-04 08:42:22,943 - INFO - Date conversion: 3900/3900 successful (100.0%)
+2025-08-04 08:42:22,946 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:42:22,946 - INFO - Commodities: category (no null values)
+2025-08-04 08:42:22,947 - INFO - City: category (no null values)
+2025-08-04 08:42:22,948 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:42:22,949 - INFO -   Date range: 2023-01-02 00:00:00 to 2023-12-29 00:00:00
+2025-08-04 08:42:22,950 - INFO - Price: int64 (no null values)
+2025-08-04 08:42:22,950 - INFO -   Price range: 9,900 - 44,500
+2025-08-04 08:42:22,951 - INFO - Successfully processed 2023.xlsx for kota-singkawang
+2025-08-04 08:42:23,037 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:42:23,042 - INFO - Price conversion: 7598/7598 successful (100.0%)
+2025-08-04 08:42:23,045 - INFO - Date conversion: 7598/7598 successful (100.0%)
+2025-08-04 08:42:23,047 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:42:23,047 - INFO - Commodities: category (no null values)
+2025-08-04 08:42:23,048 - INFO - City: category (no null values)
+2025-08-04 08:42:23,049 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:42:23,050 - INFO -   Date range: 2024-01-01 00:00:00 to 2024-12-31 00:00:00
+2025-08-04 08:42:23,051 - INFO - Price: int64 (no null values)
+2025-08-04 08:42:23,051 - INFO -   Price range: 12,750 - 160,000
+2025-08-04 08:42:23,053 - INFO - Successfully processed 2024.xlsx for kota-singkawang
+2025-08-04 08:42:23,118 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:42:23,121 - INFO - Price conversion: 3915/3915 successful (100.0%)
+2025-08-04 08:42:23,122 - INFO - Date conversion: 3915/3915 successful (100.0%)
+2025-08-04 08:42:23,125 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:42:23,126 - INFO - Commodities: category (no null values)
+2025-08-04 08:42:23,126 - INFO - City: category (no null values)
+2025-08-04 08:42:23,127 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:42:23,128 - INFO -   Date range: 2018-01-01 00:00:00 to 2018-12-31 00:00:00
+2025-08-04 08:42:23,129 - INFO - Price: int64 (no null values)
+2025-08-04 08:42:23,129 - INFO -   Price range: 9,400 - 49,500
+2025-08-04 08:42:23,131 - INFO - Successfully processed 2018.xlsx for kota-banjarmasin
+2025-08-04 08:42:23,194 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:42:23,197 - INFO - Price conversion: 3915/3915 successful (100.0%)
+2025-08-04 08:42:23,200 - INFO - Date conversion: 3915/3915 successful (100.0%)
+2025-08-04 08:42:23,202 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:42:23,202 - INFO - Commodities: category (no null values)
+2025-08-04 08:42:23,203 - INFO - City: category (no null values)
+2025-08-04 08:42:23,204 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:42:23,204 - INFO -   Date range: 2019-01-01 00:00:00 to 2019-12-31 00:00:00
+2025-08-04 08:42:23,205 - INFO - Price: int64 (no null values)
+2025-08-04 08:42:23,206 - INFO -   Price range: 9,400 - 61,250
+2025-08-04 08:42:23,207 - INFO - Successfully processed 2019.xlsx for kota-banjarmasin
+2025-08-04 08:42:23,270 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:42:23,273 - INFO - Price conversion: 3930/3930 successful (100.0%)
+2025-08-04 08:42:23,275 - INFO - Date conversion: 3930/3930 successful (100.0%)
+2025-08-04 08:42:23,278 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:42:23,278 - INFO - Commodities: category (no null values)
+2025-08-04 08:42:23,279 - INFO - City: category (no null values)
+2025-08-04 08:42:23,280 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:42:23,281 - INFO -   Date range: 2020-01-01 00:00:00 to 2020-12-31 00:00:00
+2025-08-04 08:42:23,281 - INFO - Price: int64 (no null values)
+2025-08-04 08:42:23,282 - INFO -   Price range: 10,650 - 65,000
+2025-08-04 08:42:23,283 - INFO - Successfully processed 2020.xlsx for kota-banjarmasin
+2025-08-04 08:42:23,345 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:42:23,349 - INFO - Price conversion: 3915/3915 successful (100.0%)
+2025-08-04 08:42:23,351 - INFO - Date conversion: 3915/3915 successful (100.0%)
+2025-08-04 08:42:23,352 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:42:23,353 - INFO - Commodities: category (no null values)
+2025-08-04 08:42:23,354 - INFO - City: category (no null values)
+2025-08-04 08:42:23,354 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:42:23,355 - INFO -   Date range: 2021-01-01 00:00:00 to 2021-12-31 00:00:00
+2025-08-04 08:42:23,356 - INFO - Price: int64 (no null values)
+2025-08-04 08:42:23,356 - INFO -   Price range: 10,950 - 46,750
+2025-08-04 08:42:23,357 - INFO - Successfully processed 2021.xlsx for kota-banjarmasin
+2025-08-04 08:42:23,420 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:42:23,423 - INFO - Price conversion: 3900/3900 successful (100.0%)
+2025-08-04 08:42:23,425 - INFO - Date conversion: 3900/3900 successful (100.0%)
+2025-08-04 08:42:23,427 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:42:23,428 - INFO - Commodities: category (no null values)
+2025-08-04 08:42:23,429 - INFO - City: category (no null values)
+2025-08-04 08:42:23,430 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:42:23,431 - INFO -   Date range: 2022-01-03 00:00:00 to 2022-12-30 00:00:00
+2025-08-04 08:42:23,432 - INFO - Price: int64 (no null values)
+2025-08-04 08:42:23,432 - INFO -   Price range: 10,650 - 76,250
+2025-08-04 08:42:23,434 - INFO - Successfully processed 2022.xlsx for kota-banjarmasin
+2025-08-04 08:42:23,555 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:42:23,558 - INFO - Price conversion: 3900/3900 successful (100.0%)
+2025-08-04 08:42:23,560 - INFO - Date conversion: 3900/3900 successful (100.0%)
+2025-08-04 08:42:23,563 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:42:23,564 - INFO - Commodities: category (no null values)
+2025-08-04 08:42:23,564 - INFO - City: category (no null values)
+2025-08-04 08:42:23,565 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:42:23,566 - INFO -   Date range: 2023-01-02 00:00:00 to 2023-12-29 00:00:00
+2025-08-04 08:42:23,566 - INFO - Price: int64 (no null values)
+2025-08-04 08:42:23,567 - INFO -   Price range: 12,350 - 50,000
+2025-08-04 08:42:23,568 - INFO - Successfully processed 2023.xlsx for kota-banjarmasin
+2025-08-04 08:42:23,656 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:42:23,663 - INFO - Price conversion: 8122/8122 successful (100.0%)
+2025-08-04 08:42:23,665 - INFO - Date conversion: 8122/8122 successful (100.0%)
+2025-08-04 08:42:23,667 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:42:23,668 - INFO - Commodities: category (no null values)
+2025-08-04 08:42:23,669 - INFO - City: category (no null values)
+2025-08-04 08:42:23,670 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:42:23,670 - INFO -   Date range: 2024-01-01 00:00:00 to 2024-12-31 00:00:00
+2025-08-04 08:42:23,671 - INFO - Price: int64 (no null values)
+2025-08-04 08:42:23,672 - INFO -   Price range: 13,000 - 166,250
+2025-08-04 08:42:23,673 - INFO - Successfully processed 2024.xlsx for kota-banjarmasin
+2025-08-04 08:42:23,735 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:42:23,739 - INFO - Price conversion: 3915/3915 successful (100.0%)
+2025-08-04 08:42:23,741 - INFO - Date conversion: 3915/3915 successful (100.0%)
+2025-08-04 08:42:23,743 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:42:23,744 - INFO - Commodities: category (no null values)
+2025-08-04 08:42:23,745 - INFO - City: category (no null values)
+2025-08-04 08:42:23,746 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:42:23,746 - INFO -   Date range: 2018-01-01 00:00:00 to 2018-12-31 00:00:00
+2025-08-04 08:42:23,747 - INFO - Price: int64 (no null values)
+2025-08-04 08:42:23,748 - INFO -   Price range: 8,150 - 45,000
+2025-08-04 08:42:23,749 - INFO - Successfully processed 2018.xlsx for kota-tanjung
+2025-08-04 08:42:23,810 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:42:23,814 - INFO - Price conversion: 3915/3915 successful (100.0%)
+2025-08-04 08:42:23,816 - INFO - Date conversion: 3915/3915 successful (100.0%)
+2025-08-04 08:42:23,818 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:42:23,819 - INFO - Commodities: category (no null values)
+2025-08-04 08:42:23,819 - INFO - City: category (no null values)
+2025-08-04 08:42:23,820 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:42:23,820 - INFO -   Date range: 2019-01-01 00:00:00 to 2019-12-31 00:00:00
+2025-08-04 08:42:23,821 - INFO - Price: int64 (no null values)
+2025-08-04 08:42:23,821 - INFO -   Price range: 8,250 - 60,000
+2025-08-04 08:42:23,823 - INFO - Successfully processed 2019.xlsx for kota-tanjung
+2025-08-04 08:42:23,886 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:42:23,890 - INFO - Price conversion: 3930/3930 successful (100.0%)
+2025-08-04 08:42:23,892 - INFO - Date conversion: 3930/3930 successful (100.0%)
+2025-08-04 08:42:23,893 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:42:23,895 - INFO - Commodities: category (no null values)
+2025-08-04 08:42:23,895 - INFO - City: category (no null values)
+2025-08-04 08:42:23,896 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:42:23,897 - INFO -   Date range: 2020-01-01 00:00:00 to 2020-12-31 00:00:00
+2025-08-04 08:42:23,898 - INFO - Price: int64 (no null values)
+2025-08-04 08:42:23,898 - INFO -   Price range: 8,750 - 65,000
+2025-08-04 08:42:23,899 - INFO - Successfully processed 2020.xlsx for kota-tanjung
+2025-08-04 08:42:23,982 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:42:23,987 - INFO - Price conversion: 3915/3915 successful (100.0%)
+2025-08-04 08:42:23,990 - INFO - Date conversion: 3915/3915 successful (100.0%)
+2025-08-04 08:42:23,993 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:42:23,993 - INFO - Commodities: category (no null values)
+2025-08-04 08:42:23,994 - INFO - City: category (no null values)
+2025-08-04 08:42:23,995 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:42:23,996 - INFO -   Date range: 2021-01-01 00:00:00 to 2021-12-31 00:00:00
+2025-08-04 08:42:23,997 - INFO - Price: int64 (no null values)
+2025-08-04 08:42:23,998 - INFO -   Price range: 8,750 - 46,500
+2025-08-04 08:42:23,999 - INFO - Successfully processed 2021.xlsx for kota-tanjung
+2025-08-04 08:42:24,061 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:42:24,064 - INFO - Price conversion: 3900/3900 successful (100.0%)
+2025-08-04 08:42:24,067 - INFO - Date conversion: 3900/3900 successful (100.0%)
+2025-08-04 08:42:24,068 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:42:24,069 - INFO - Commodities: category (no null values)
+2025-08-04 08:42:24,070 - INFO - City: category (no null values)
+2025-08-04 08:42:24,071 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:42:24,072 - INFO -   Date range: 2022-01-03 00:00:00 to 2022-12-30 00:00:00
+2025-08-04 08:42:24,072 - INFO - Price: int64 (no null values)
+2025-08-04 08:42:24,073 - INFO -   Price range: 8,750 - 72,500
+2025-08-04 08:42:24,074 - INFO - Successfully processed 2022.xlsx for kota-tanjung
+2025-08-04 08:42:24,136 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:42:24,139 - INFO - Price conversion: 3900/3900 successful (100.0%)
+2025-08-04 08:42:24,141 - INFO - Date conversion: 3900/3900 successful (100.0%)
+2025-08-04 08:42:24,144 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:42:24,144 - INFO - Commodities: category (no null values)
+2025-08-04 08:42:24,145 - INFO - City: category (no null values)
+2025-08-04 08:42:24,146 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:42:24,147 - INFO -   Date range: 2023-01-02 00:00:00 to 2023-12-29 00:00:00
+2025-08-04 08:42:24,147 - INFO - Price: int64 (no null values)
+2025-08-04 08:42:24,148 - INFO -   Price range: 11,900 - 50,000
+2025-08-04 08:42:24,149 - INFO - Successfully processed 2023.xlsx for kota-tanjung
+2025-08-04 08:42:24,297 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:42:24,302 - INFO - Price conversion: 8122/8122 successful (100.0%)
+2025-08-04 08:42:24,305 - INFO - Date conversion: 8122/8122 successful (100.0%)
+2025-08-04 08:42:24,307 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:42:24,307 - INFO - Commodities: category (no null values)
+2025-08-04 08:42:24,308 - INFO - City: category (no null values)
+2025-08-04 08:42:24,310 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:42:24,311 - INFO -   Date range: 2024-01-01 00:00:00 to 2024-12-31 00:00:00
+2025-08-04 08:42:24,311 - INFO - Price: int64 (no null values)
+2025-08-04 08:42:24,312 - INFO -   Price range: 10,500 - 160,000
+2025-08-04 08:42:24,314 - INFO - Successfully processed 2024.xlsx for kota-tanjung
+2025-08-04 08:42:24,374 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:42:24,380 - INFO - Price conversion: 3915/3915 successful (100.0%)
+2025-08-04 08:42:24,382 - INFO - Date conversion: 3915/3915 successful (100.0%)
+2025-08-04 08:42:24,384 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:42:24,385 - INFO - Commodities: category (no null values)
+2025-08-04 08:42:24,385 - INFO - City: category (no null values)
+2025-08-04 08:42:24,386 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:42:24,387 - INFO -   Date range: 2018-01-01 00:00:00 to 2018-12-31 00:00:00
+2025-08-04 08:42:24,387 - INFO - Price: int64 (no null values)
+2025-08-04 08:42:24,388 - INFO -   Price range: 8,800 - 132,250
+2025-08-04 08:42:24,389 - INFO - Successfully processed 2018.xlsx for kota-palangkaraya
+2025-08-04 08:42:24,451 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:42:24,455 - INFO - Price conversion: 3915/3915 successful (100.0%)
+2025-08-04 08:42:24,457 - INFO - Date conversion: 3915/3915 successful (100.0%)
+2025-08-04 08:42:24,458 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:42:24,459 - INFO - Commodities: category (no null values)
+2025-08-04 08:42:24,460 - INFO - City: category (no null values)
+2025-08-04 08:42:24,461 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:42:24,462 - INFO -   Date range: 2019-01-01 00:00:00 to 2019-12-31 00:00:00
+2025-08-04 08:42:24,463 - INFO - Price: int64 (no null values)
+2025-08-04 08:42:24,463 - INFO -   Price range: 10,450 - 60,000
+2025-08-04 08:42:24,465 - INFO - Successfully processed 2019.xlsx for kota-palangkaraya
+2025-08-04 08:42:24,530 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:42:24,534 - INFO - Price conversion: 3930/3930 successful (100.0%)
+2025-08-04 08:42:24,536 - INFO - Date conversion: 3930/3930 successful (100.0%)
+2025-08-04 08:42:24,538 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:42:24,539 - INFO - Commodities: category (no null values)
+2025-08-04 08:42:24,539 - INFO - City: category (no null values)
+2025-08-04 08:42:24,540 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:42:24,541 - INFO -   Date range: 2020-01-01 00:00:00 to 2020-12-31 00:00:00
+2025-08-04 08:42:24,541 - INFO - Price: int64 (no null values)
+2025-08-04 08:42:24,542 - INFO -   Price range: 11,500 - 65,750
+2025-08-04 08:42:24,544 - INFO - Successfully processed 2020.xlsx for kota-palangkaraya
+2025-08-04 08:42:24,606 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:42:24,609 - INFO - Price conversion: 3915/3915 successful (100.0%)
+2025-08-04 08:42:24,612 - INFO - Date conversion: 3915/3915 successful (100.0%)
+2025-08-04 08:42:24,614 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:42:24,614 - INFO - Commodities: category (no null values)
+2025-08-04 08:42:24,615 - INFO - City: category (no null values)
+2025-08-04 08:42:24,616 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:42:24,617 - INFO -   Date range: 2021-01-01 00:00:00 to 2021-12-31 00:00:00
+2025-08-04 08:42:24,617 - INFO - Price: int64 (no null values)
+2025-08-04 08:42:24,618 - INFO -   Price range: 11,000 - 46,250
+2025-08-04 08:42:24,619 - INFO - Successfully processed 2021.xlsx for kota-palangkaraya
+2025-08-04 08:42:24,682 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:42:24,685 - INFO - Price conversion: 3900/3900 successful (100.0%)
+2025-08-04 08:42:24,687 - INFO - Date conversion: 3900/3900 successful (100.0%)
+2025-08-04 08:42:24,688 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:42:24,689 - INFO - Commodities: category (no null values)
+2025-08-04 08:42:24,690 - INFO - City: category (no null values)
+2025-08-04 08:42:24,691 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:42:24,692 - INFO -   Date range: 2022-01-03 00:00:00 to 2022-12-30 00:00:00
+2025-08-04 08:42:24,693 - INFO - Price: int64 (no null values)
+2025-08-04 08:42:24,693 - INFO -   Price range: 11,000 - 73,750
+2025-08-04 08:42:24,695 - INFO - Successfully processed 2022.xlsx for kota-palangkaraya
+2025-08-04 08:42:24,757 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:42:24,761 - INFO - Price conversion: 3900/3900 successful (100.0%)
+2025-08-04 08:42:24,763 - INFO - Date conversion: 3900/3900 successful (100.0%)
+2025-08-04 08:42:24,765 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:42:24,766 - INFO - Commodities: category (no null values)
+2025-08-04 08:42:24,766 - INFO - City: category (no null values)
+2025-08-04 08:42:24,767 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:42:24,767 - INFO -   Date range: 2023-01-02 00:00:00 to 2023-12-29 00:00:00
+2025-08-04 08:42:24,768 - INFO - Price: int64 (no null values)
+2025-08-04 08:42:24,769 - INFO -   Price range: 11,900 - 51,500
+2025-08-04 08:42:24,770 - INFO - Successfully processed 2023.xlsx for kota-palangkaraya
+2025-08-04 08:42:24,865 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:42:24,871 - INFO - Price conversion: 8122/8122 successful (100.0%)
+2025-08-04 08:42:24,873 - INFO - Date conversion: 8122/8122 successful (100.0%)
+2025-08-04 08:42:24,875 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:42:24,876 - INFO - Commodities: category (no null values)
+2025-08-04 08:42:24,877 - INFO - City: category (no null values)
+2025-08-04 08:42:24,877 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:42:24,879 - INFO -   Date range: 2024-01-01 00:00:00 to 2024-12-31 00:00:00
+2025-08-04 08:42:24,880 - INFO - Price: int64 (no null values)
+2025-08-04 08:42:24,881 - INFO -   Price range: 14,500 - 160,000
+2025-08-04 08:42:24,882 - INFO - Successfully processed 2024.xlsx for kota-palangkaraya
+2025-08-04 08:42:25,005 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:42:25,008 - INFO - Price conversion: 3915/3915 successful (100.0%)
+2025-08-04 08:42:25,012 - INFO - Date conversion: 3915/3915 successful (100.0%)
+2025-08-04 08:42:25,014 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:42:25,014 - INFO - Commodities: category (no null values)
+2025-08-04 08:42:25,015 - INFO - City: category (no null values)
+2025-08-04 08:42:25,016 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:42:25,016 - INFO -   Date range: 2018-01-01 00:00:00 to 2018-12-31 00:00:00
+2025-08-04 08:42:25,017 - INFO - Price: int64 (no null values)
+2025-08-04 08:42:25,018 - INFO -   Price range: 10,400 - 53,500
+2025-08-04 08:42:25,018 - INFO - Successfully processed 2018.xlsx for kota-sampit
+2025-08-04 08:42:25,081 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:42:25,085 - INFO - Price conversion: 3915/3915 successful (100.0%)
+2025-08-04 08:42:25,087 - INFO - Date conversion: 3915/3915 successful (100.0%)
+2025-08-04 08:42:25,089 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:42:25,090 - INFO - Commodities: category (no null values)
+2025-08-04 08:42:25,090 - INFO - City: category (no null values)
+2025-08-04 08:42:25,091 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:42:25,092 - INFO -   Date range: 2019-01-01 00:00:00 to 2019-12-31 00:00:00
+2025-08-04 08:42:25,093 - INFO - Price: int64 (no null values)
+2025-08-04 08:42:25,094 - INFO -   Price range: 10,750 - 50,000
+2025-08-04 08:42:25,095 - INFO - Successfully processed 2019.xlsx for kota-sampit
+2025-08-04 08:42:25,158 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:42:25,163 - INFO - Price conversion: 3930/3930 successful (100.0%)
+2025-08-04 08:42:25,165 - INFO - Date conversion: 3930/3930 successful (100.0%)
+2025-08-04 08:42:25,167 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:42:25,168 - INFO - Commodities: category (no null values)
+2025-08-04 08:42:25,168 - INFO - City: category (no null values)
+2025-08-04 08:42:25,170 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:42:25,170 - INFO -   Date range: 2020-01-01 00:00:00 to 2020-12-31 00:00:00
+2025-08-04 08:42:25,171 - INFO - Price: int64 (no null values)
+2025-08-04 08:42:25,171 - INFO -   Price range: 11,000 - 64,750
+2025-08-04 08:42:25,172 - INFO - Successfully processed 2020.xlsx for kota-sampit
+2025-08-04 08:42:25,266 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:42:25,272 - INFO - Price conversion: 3915/3915 successful (100.0%)
+2025-08-04 08:42:25,274 - INFO - Date conversion: 3915/3915 successful (100.0%)
+2025-08-04 08:42:25,277 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:42:25,278 - INFO - Commodities: category (no null values)
+2025-08-04 08:42:25,279 - INFO - City: category (no null values)
+2025-08-04 08:42:25,279 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:42:25,280 - INFO -   Date range: 2021-01-01 00:00:00 to 2021-12-31 00:00:00
+2025-08-04 08:42:25,281 - INFO - Price: int64 (no null values)
+2025-08-04 08:42:25,282 - INFO -   Price range: 9,750 - 47,500
+2025-08-04 08:42:25,283 - INFO - Successfully processed 2021.xlsx for kota-sampit
+2025-08-04 08:42:25,347 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:42:25,350 - INFO - Price conversion: 3900/3900 successful (100.0%)
+2025-08-04 08:42:25,352 - INFO - Date conversion: 3900/3900 successful (100.0%)
+2025-08-04 08:42:25,354 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:42:25,354 - INFO - Commodities: category (no null values)
+2025-08-04 08:42:25,355 - INFO - City: category (no null values)
+2025-08-04 08:42:25,356 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:42:25,356 - INFO -   Date range: 2022-01-03 00:00:00 to 2022-12-30 00:00:00
+2025-08-04 08:42:25,358 - INFO - Price: int64 (no null values)
+2025-08-04 08:42:25,359 - INFO -   Price range: 9,650 - 70,000
+2025-08-04 08:42:25,360 - INFO - Successfully processed 2022.xlsx for kota-sampit
+2025-08-04 08:42:25,426 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:42:25,430 - INFO - Price conversion: 3900/3900 successful (100.0%)
+2025-08-04 08:42:25,433 - INFO - Date conversion: 3900/3900 successful (100.0%)
+2025-08-04 08:42:25,434 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:42:25,435 - INFO - Commodities: category (no null values)
+2025-08-04 08:42:25,436 - INFO - City: category (no null values)
+2025-08-04 08:42:25,436 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:42:25,437 - INFO -   Date range: 2023-01-02 00:00:00 to 2023-12-29 00:00:00
+2025-08-04 08:42:25,437 - INFO - Price: int64 (no null values)
+2025-08-04 08:42:25,438 - INFO -   Price range: 11,400 - 53,750
+2025-08-04 08:42:25,440 - INFO - Successfully processed 2023.xlsx for kota-sampit
+2025-08-04 08:42:25,531 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:42:25,537 - INFO - Price conversion: 8122/8122 successful (100.0%)
+2025-08-04 08:42:25,539 - INFO - Date conversion: 8122/8122 successful (100.0%)
+2025-08-04 08:42:25,541 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:42:25,542 - INFO - Commodities: category (no null values)
+2025-08-04 08:42:25,543 - INFO - City: category (no null values)
+2025-08-04 08:42:25,544 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:42:25,545 - INFO -   Date range: 2024-01-01 00:00:00 to 2024-12-31 00:00:00
+2025-08-04 08:42:25,546 - INFO - Price: int64 (no null values)
+2025-08-04 08:42:25,547 - INFO -   Price range: 14,000 - 162,500
+2025-08-04 08:42:25,548 - INFO - Successfully processed 2024.xlsx for kota-sampit
+2025-08-04 08:42:25,612 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:42:25,615 - INFO - Price conversion: 3915/3915 successful (100.0%)
+2025-08-04 08:42:25,618 - INFO - Date conversion: 3915/3915 successful (100.0%)
+2025-08-04 08:42:25,619 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:42:25,621 - INFO - Commodities: category (no null values)
+2025-08-04 08:42:25,621 - INFO - City: category (no null values)
+2025-08-04 08:42:25,622 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:42:25,623 - INFO -   Date range: 2018-01-01 00:00:00 to 2018-12-31 00:00:00
+2025-08-04 08:42:25,623 - INFO - Price: int64 (no null values)
+2025-08-04 08:42:25,624 - INFO -   Price range: 9,950 - 45,000
+2025-08-04 08:42:25,625 - INFO - Successfully processed 2018.xlsx for kota-balikpapan
+2025-08-04 08:42:25,691 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:42:25,695 - INFO - Price conversion: 3915/3915 successful (100.0%)
+2025-08-04 08:42:25,698 - INFO - Date conversion: 3915/3915 successful (100.0%)
+2025-08-04 08:42:25,700 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:42:25,701 - INFO - Commodities: category (no null values)
+2025-08-04 08:42:25,701 - INFO - City: category (no null values)
+2025-08-04 08:42:25,702 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:42:25,703 - INFO -   Date range: 2019-01-01 00:00:00 to 2019-12-31 00:00:00
+2025-08-04 08:42:25,704 - INFO - Price: int64 (no null values)
+2025-08-04 08:42:25,704 - INFO -   Price range: 10,650 - 95,000
+2025-08-04 08:42:25,706 - INFO - Successfully processed 2019.xlsx for kota-balikpapan
+2025-08-04 08:42:25,769 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:42:25,772 - INFO - Price conversion: 3930/3930 successful (100.0%)
+2025-08-04 08:42:25,774 - INFO - Date conversion: 3930/3930 successful (100.0%)
+2025-08-04 08:42:25,776 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:42:25,777 - INFO - Commodities: category (no null values)
+2025-08-04 08:42:25,778 - INFO - City: category (no null values)
+2025-08-04 08:42:25,778 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:42:25,779 - INFO -   Date range: 2020-01-01 00:00:00 to 2020-12-31 00:00:00
+2025-08-04 08:42:25,780 - INFO - Price: int64 (no null values)
+2025-08-04 08:42:25,780 - INFO -   Price range: 10,250 - 66,250
+2025-08-04 08:42:25,782 - INFO - Successfully processed 2020.xlsx for kota-balikpapan
+2025-08-04 08:42:25,909 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:42:25,913 - INFO - Price conversion: 3915/3915 successful (100.0%)
+2025-08-04 08:42:25,915 - INFO - Date conversion: 3915/3915 successful (100.0%)
+2025-08-04 08:42:25,918 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:42:25,918 - INFO - Commodities: category (no null values)
+2025-08-04 08:42:25,919 - INFO - City: category (no null values)
+2025-08-04 08:42:25,919 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:42:25,920 - INFO -   Date range: 2021-01-01 00:00:00 to 2021-12-31 00:00:00
+2025-08-04 08:42:25,921 - INFO - Price: int64 (no null values)
+2025-08-04 08:42:25,921 - INFO -   Price range: 10,750 - 39,000
+2025-08-04 08:42:25,922 - INFO - Successfully processed 2021.xlsx for kota-balikpapan
+2025-08-04 08:42:25,987 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:42:25,990 - INFO - Price conversion: 3900/3900 successful (100.0%)
+2025-08-04 08:42:25,992 - INFO - Date conversion: 3900/3900 successful (100.0%)
+2025-08-04 08:42:25,994 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:42:25,995 - INFO - Commodities: category (no null values)
+2025-08-04 08:42:25,996 - INFO - City: category (no null values)
+2025-08-04 08:42:25,997 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:42:25,998 - INFO -   Date range: 2022-01-03 00:00:00 to 2022-12-30 00:00:00
+2025-08-04 08:42:25,998 - INFO - Price: int64 (no null values)
+2025-08-04 08:42:25,999 - INFO -   Price range: 9,350 - 88,750
+2025-08-04 08:42:26,000 - INFO - Successfully processed 2022.xlsx for kota-balikpapan
+2025-08-04 08:42:26,065 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:42:26,069 - INFO - Price conversion: 3900/3900 successful (100.0%)
+2025-08-04 08:42:26,071 - INFO - Date conversion: 3900/3900 successful (100.0%)
+2025-08-04 08:42:26,073 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:42:26,074 - INFO - Commodities: category (no null values)
+2025-08-04 08:42:26,074 - INFO - City: category (no null values)
+2025-08-04 08:42:26,075 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:42:26,077 - INFO -   Date range: 2023-01-02 00:00:00 to 2023-12-29 00:00:00
+2025-08-04 08:42:26,077 - INFO - Price: int64 (no null values)
+2025-08-04 08:42:26,079 - INFO -   Price range: 12,000 - 47,500
+2025-08-04 08:42:26,081 - INFO - Successfully processed 2023.xlsx for kota-balikpapan
+2025-08-04 08:42:26,175 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:42:26,181 - INFO - Price conversion: 8122/8122 successful (100.0%)
+2025-08-04 08:42:26,183 - INFO - Date conversion: 8122/8122 successful (100.0%)
+2025-08-04 08:42:26,185 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:42:26,186 - INFO - Commodities: category (no null values)
+2025-08-04 08:42:26,186 - INFO - City: category (no null values)
+2025-08-04 08:42:26,188 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:42:26,190 - INFO -   Date range: 2024-01-01 00:00:00 to 2024-12-31 00:00:00
+2025-08-04 08:42:26,190 - INFO - Price: int64 (no null values)
+2025-08-04 08:42:26,191 - INFO -   Price range: 12,800 - 165,000
+2025-08-04 08:42:26,192 - INFO - Successfully processed 2024.xlsx for kota-balikpapan
+2025-08-04 08:42:26,255 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:42:26,259 - INFO - Price conversion: 3915/3915 successful (100.0%)
+2025-08-04 08:42:26,262 - INFO - Date conversion: 3915/3915 successful (100.0%)
+2025-08-04 08:42:26,264 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:42:26,265 - INFO - Commodities: category (no null values)
+2025-08-04 08:42:26,266 - INFO - City: category (no null values)
+2025-08-04 08:42:26,266 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:42:26,267 - INFO -   Date range: 2018-01-01 00:00:00 to 2018-12-31 00:00:00
+2025-08-04 08:42:26,268 - INFO - Price: int64 (no null values)
+2025-08-04 08:42:26,268 - INFO -   Price range: 10,850 - 46,500
+2025-08-04 08:42:26,269 - INFO - Successfully processed 2018.xlsx for kota-samarinda
+2025-08-04 08:42:26,334 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:42:26,338 - INFO - Price conversion: 3915/3915 successful (100.0%)
+2025-08-04 08:42:26,341 - INFO - Date conversion: 3915/3915 successful (100.0%)
+2025-08-04 08:42:26,345 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:42:26,346 - INFO - Commodities: category (no null values)
+2025-08-04 08:42:26,347 - INFO - City: category (no null values)
+2025-08-04 08:42:26,348 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:42:26,349 - INFO -   Date range: 2019-01-01 00:00:00 to 2019-12-31 00:00:00
+2025-08-04 08:42:26,350 - INFO - Price: int64 (no null values)
+2025-08-04 08:42:26,351 - INFO -   Price range: 10,750 - 117,500
+2025-08-04 08:42:26,352 - INFO - Successfully processed 2019.xlsx for kota-samarinda
+2025-08-04 08:42:26,462 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:42:26,466 - INFO - Price conversion: 3930/3930 successful (100.0%)
+2025-08-04 08:42:26,469 - INFO - Date conversion: 3930/3930 successful (100.0%)
+2025-08-04 08:42:26,472 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:42:26,473 - INFO - Commodities: category (no null values)
+2025-08-04 08:42:26,474 - INFO - City: category (no null values)
+2025-08-04 08:42:26,474 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:42:26,476 - INFO -   Date range: 2020-01-01 00:00:00 to 2020-12-31 00:00:00
+2025-08-04 08:42:26,477 - INFO - Price: int64 (no null values)
+2025-08-04 08:42:26,477 - INFO -   Price range: 9,800 - 65,000
+2025-08-04 08:42:26,479 - INFO - Successfully processed 2020.xlsx for kota-samarinda
+2025-08-04 08:42:26,544 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:42:26,548 - INFO - Price conversion: 3915/3915 successful (100.0%)
+2025-08-04 08:42:26,550 - INFO - Date conversion: 3915/3915 successful (100.0%)
+2025-08-04 08:42:26,552 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:42:26,552 - INFO - Commodities: category (no null values)
+2025-08-04 08:42:26,553 - INFO - City: category (no null values)
+2025-08-04 08:42:26,554 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:42:26,555 - INFO -   Date range: 2021-01-01 00:00:00 to 2021-12-31 00:00:00
+2025-08-04 08:42:26,555 - INFO - Price: int64 (no null values)
+2025-08-04 08:42:26,556 - INFO -   Price range: 10,250 - 43,200
+2025-08-04 08:42:26,556 - INFO - Successfully processed 2021.xlsx for kota-samarinda
+2025-08-04 08:42:26,621 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:42:26,624 - INFO - Price conversion: 3900/3900 successful (100.0%)
+2025-08-04 08:42:26,627 - INFO - Date conversion: 3900/3900 successful (100.0%)
+2025-08-04 08:42:26,630 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:42:26,630 - INFO - Commodities: category (no null values)
+2025-08-04 08:42:26,631 - INFO - City: category (no null values)
+2025-08-04 08:42:26,632 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:42:26,633 - INFO -   Date range: 2022-01-03 00:00:00 to 2022-12-30 00:00:00
+2025-08-04 08:42:26,633 - INFO - Price: int64 (no null values)
+2025-08-04 08:42:26,634 - INFO -   Price range: 10,500 - 72,500
+2025-08-04 08:42:26,635 - INFO - Successfully processed 2022.xlsx for kota-samarinda
+2025-08-04 08:42:26,700 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:42:26,704 - INFO - Price conversion: 3900/3900 successful (100.0%)
+2025-08-04 08:42:26,706 - INFO - Date conversion: 3900/3900 successful (100.0%)
+2025-08-04 08:42:26,707 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:42:26,708 - INFO - Commodities: category (no null values)
+2025-08-04 08:42:26,709 - INFO - City: category (no null values)
+2025-08-04 08:42:26,709 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:42:26,710 - INFO -   Date range: 2023-01-02 00:00:00 to 2023-12-29 00:00:00
+2025-08-04 08:42:26,711 - INFO - Price: int64 (no null values)
+2025-08-04 08:42:26,712 - INFO -   Price range: 12,000 - 51,000
+2025-08-04 08:42:26,713 - INFO - Successfully processed 2023.xlsx for kota-samarinda
+2025-08-04 08:42:26,872 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:42:26,879 - INFO - Price conversion: 8122/8122 successful (100.0%)
+2025-08-04 08:42:26,881 - INFO - Date conversion: 8122/8122 successful (100.0%)
+2025-08-04 08:42:26,883 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:42:26,884 - INFO - Commodities: category (no null values)
+2025-08-04 08:42:26,885 - INFO - City: category (no null values)
+2025-08-04 08:42:26,885 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:42:26,886 - INFO -   Date range: 2024-01-01 00:00:00 to 2024-12-31 00:00:00
+2025-08-04 08:42:26,887 - INFO - Price: int64 (no null values)
+2025-08-04 08:42:26,887 - INFO -   Price range: 14,000 - 158,750
+2025-08-04 08:42:26,888 - INFO - Successfully processed 2024.xlsx for kota-samarinda
+2025-08-04 08:42:26,951 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:42:26,954 - INFO - Price conversion: 3915/3915 successful (100.0%)
+2025-08-04 08:42:26,956 - INFO - Date conversion: 3915/3915 successful (100.0%)
+2025-08-04 08:42:26,957 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:42:26,958 - INFO - Commodities: category (no null values)
+2025-08-04 08:42:26,959 - INFO - City: category (no null values)
+2025-08-04 08:42:26,960 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:42:26,961 - INFO -   Date range: 2018-01-01 00:00:00 to 2018-12-31 00:00:00
+2025-08-04 08:42:26,961 - INFO - Price: int64 (no null values)
+2025-08-04 08:42:26,962 - INFO -   Price range: 12,500 - 63,750
+2025-08-04 08:42:26,963 - INFO - Successfully processed 2018.xlsx for kota-tarakan
+2025-08-04 08:42:27,025 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:42:27,030 - INFO - Price conversion: 3915/3915 successful (100.0%)
+2025-08-04 08:42:27,032 - INFO - Date conversion: 3915/3915 successful (100.0%)
+2025-08-04 08:42:27,034 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:42:27,035 - INFO - Commodities: category (no null values)
+2025-08-04 08:42:27,036 - INFO - City: category (no null values)
+2025-08-04 08:42:27,037 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:42:27,037 - INFO -   Date range: 2019-01-01 00:00:00 to 2019-12-31 00:00:00
+2025-08-04 08:42:27,038 - INFO - Price: int64 (no null values)
+2025-08-04 08:42:27,039 - INFO -   Price range: 9,800 - 63,750
+2025-08-04 08:42:27,040 - INFO - Successfully processed 2019.xlsx for kota-tarakan
+2025-08-04 08:42:27,106 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:42:27,110 - INFO - Price conversion: 3930/3930 successful (100.0%)
+2025-08-04 08:42:27,113 - INFO - Date conversion: 3930/3930 successful (100.0%)
+2025-08-04 08:42:27,115 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:42:27,115 - INFO - Commodities: category (no null values)
+2025-08-04 08:42:27,116 - INFO - City: category (no null values)
+2025-08-04 08:42:27,117 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:42:27,117 - INFO -   Date range: 2020-01-01 00:00:00 to 2020-12-31 00:00:00
+2025-08-04 08:42:27,118 - INFO - Price: int64 (no null values)
+2025-08-04 08:42:27,118 - INFO -   Price range: 12,500 - 67,500
+2025-08-04 08:42:27,120 - INFO - Successfully processed 2020.xlsx for kota-tarakan
+2025-08-04 08:42:27,182 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:42:27,186 - INFO - Price conversion: 3915/3915 successful (100.0%)
+2025-08-04 08:42:27,188 - INFO - Date conversion: 3915/3915 successful (100.0%)
+2025-08-04 08:42:27,189 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:42:27,191 - INFO - Commodities: category (no null values)
+2025-08-04 08:42:27,191 - INFO - City: category (no null values)
+2025-08-04 08:42:27,191 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:42:27,193 - INFO -   Date range: 2021-01-01 00:00:00 to 2021-12-31 00:00:00
+2025-08-04 08:42:27,193 - INFO - Price: int64 (no null values)
+2025-08-04 08:42:27,194 - INFO -   Price range: 12,250 - 90,000
+2025-08-04 08:42:27,196 - INFO - Successfully processed 2021.xlsx for kota-tarakan
+2025-08-04 08:42:27,258 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:42:27,262 - INFO - Price conversion: 3900/3900 successful (100.0%)
+2025-08-04 08:42:27,265 - INFO - Date conversion: 3900/3900 successful (100.0%)
+2025-08-04 08:42:27,266 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:42:27,267 - INFO - Commodities: category (no null values)
+2025-08-04 08:42:27,268 - INFO - City: category (no null values)
+2025-08-04 08:42:27,268 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:42:27,269 - INFO -   Date range: 2022-01-03 00:00:00 to 2022-12-30 00:00:00
+2025-08-04 08:42:27,269 - INFO - Price: int64 (no null values)
+2025-08-04 08:42:27,270 - INFO -   Price range: 12,000 - 75,000
+2025-08-04 08:42:27,271 - INFO - Successfully processed 2022.xlsx for kota-tarakan
+2025-08-04 08:42:27,334 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:42:27,337 - INFO - Price conversion: 3900/3900 successful (100.0%)
+2025-08-04 08:42:27,339 - INFO - Date conversion: 3900/3900 successful (100.0%)
+2025-08-04 08:42:27,341 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:42:27,342 - INFO - Commodities: category (no null values)
+2025-08-04 08:42:27,343 - INFO - City: category (no null values)
+2025-08-04 08:42:27,344 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:42:27,345 - INFO -   Date range: 2023-01-02 00:00:00 to 2023-12-29 00:00:00
+2025-08-04 08:42:27,346 - INFO - Price: int64 (no null values)
+2025-08-04 08:42:27,347 - INFO -   Price range: 13,400 - 52,500
+2025-08-04 08:42:27,347 - INFO - Successfully processed 2023.xlsx for kota-tarakan
+2025-08-04 08:42:27,466 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:42:27,473 - INFO - Price conversion: 8122/8122 successful (100.0%)
+2025-08-04 08:42:27,475 - INFO - Date conversion: 8122/8122 successful (100.0%)
+2025-08-04 08:42:27,477 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:42:27,479 - INFO - Commodities: category (no null values)
+2025-08-04 08:42:27,479 - INFO - City: category (no null values)
+2025-08-04 08:42:27,480 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:42:27,481 - INFO -   Date range: 2024-01-01 00:00:00 to 2024-12-31 00:00:00
+2025-08-04 08:42:27,482 - INFO - Price: int64 (no null values)
+2025-08-04 08:42:27,482 - INFO -   Price range: 14,500 - 150,000
+2025-08-04 08:42:27,484 - INFO - Successfully processed 2024.xlsx for kota-tarakan
+2025-08-04 08:42:27,484 - INFO - Successfully processed 70/70 files
+2025-08-04 08:42:27,484 - INFO - Consolidating data into master DataFrame...
+2025-08-04 08:42:27,500 - INFO - === Data Summary ===
+2025-08-04 08:42:27,501 - INFO - Total records: 91,350
+2025-08-04 08:42:27,505 - INFO - Cities: 10
+2025-08-04 08:42:27,508 - INFO - Commodities: 5
+2025-08-04 08:42:27,509 - INFO - Date range: 1827 unique dates
+2025-08-04 08:42:27,511 - INFO - === Data Types ===
+2025-08-04 08:42:27,512 - INFO - Commodities: object
+2025-08-04 08:42:27,512 - INFO - City: object
+2025-08-04 08:42:27,513 - INFO - Date: datetime64[ns]
+2025-08-04 08:42:27,513 - INFO - Price: int64
+2025-08-04 08:42:27,519 - INFO - No missing values in final dataset
+2025-08-04 08:42:27,523 - INFO - Cities included: kab-sintang, kota-balikpapan, kota-banjarmasin, kota-palangkaraya, kota-pontianak, kota-samarinda, kota-sampit, kota-singkawang, kota-tanjung, kota-tarakan
+2025-08-04 08:42:27,526 - INFO - Commodities included: Bawang Merah, Bawang Putih, Beras, Daging Ayam, Telur Ayam
+2025-08-04 08:42:27,530 - INFO - Price range: 9,600 - 133,000
+2025-08-04 08:42:27,531 - INFO - Average price: 29,093
+2025-08-04 08:42:27,533 - INFO - Data consolidation pipeline completed successfully!
+2025-08-04 08:42:59,500 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-04 08:42:59,503 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-04 08:43:19,672 - INFO - Starting data consolidation pipeline...
+2025-08-04 08:43:19,673 - INFO - Starting consolidation in: C:\Users\UNTAR\Semester 7\FINAL THESIS CODE\clustering-food-prices-kalimantan\data\raw
+2025-08-04 08:43:19,675 - INFO - Found 30 files after filtering (out of 80 total)
+2025-08-04 08:43:19,676 - INFO - Found 30 Excel files to process
+2025-08-04 08:43:19,761 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:43:19,767 - INFO - Price conversion: 8060/8060 successful (100.0%)
+2025-08-04 08:43:19,769 - INFO - Date conversion: 8060/8060 successful (100.0%)
+2025-08-04 08:43:19,771 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:43:19,772 - INFO - Commodities: category (no null values)
+2025-08-04 08:43:19,772 - INFO - City: category (no null values)
+2025-08-04 08:43:19,773 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:43:19,774 - INFO -   Date range: 2022-01-03 00:00:00 to 2022-12-30 00:00:00
+2025-08-04 08:43:19,775 - INFO - Price: int64 (no null values)
+2025-08-04 08:43:19,776 - INFO -   Price range: 12,700 - 180,000
+2025-08-04 08:43:19,779 - INFO - Successfully processed 2022.xlsx for kab-sintang
+2025-08-04 08:43:19,858 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:43:19,865 - INFO - Price conversion: 8060/8060 successful (100.0%)
+2025-08-04 08:43:19,868 - INFO - Date conversion: 8060/8060 successful (100.0%)
+2025-08-04 08:43:19,870 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:43:19,871 - INFO - Commodities: category (no null values)
+2025-08-04 08:43:19,872 - INFO - City: category (no null values)
+2025-08-04 08:43:19,873 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:43:19,874 - INFO -   Date range: 2023-01-02 00:00:00 to 2023-12-29 00:00:00
+2025-08-04 08:43:19,874 - INFO - Price: int64 (no null values)
+2025-08-04 08:43:19,875 - INFO -   Price range: 11,900 - 275,000
+2025-08-04 08:43:19,876 - INFO - Successfully processed 2023.xlsx for kab-sintang
+2025-08-04 08:43:19,993 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:43:20,000 - INFO - Price conversion: 8122/8122 successful (100.0%)
+2025-08-04 08:43:20,003 - INFO - Date conversion: 8122/8122 successful (100.0%)
+2025-08-04 08:43:20,005 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:43:20,005 - INFO - Commodities: category (no null values)
+2025-08-04 08:43:20,006 - INFO - City: category (no null values)
+2025-08-04 08:43:20,007 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:43:20,008 - INFO -   Date range: 2024-01-01 00:00:00 to 2024-12-31 00:00:00
+2025-08-04 08:43:20,008 - INFO - Price: int64 (no null values)
+2025-08-04 08:43:20,009 - INFO -   Price range: 14,250 - 303,250
+2025-08-04 08:43:20,011 - INFO - Successfully processed 2024.xlsx for kab-sintang
+2025-08-04 08:43:20,063 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:43:20,066 - INFO - Price conversion: 3380/3380 successful (100.0%)
+2025-08-04 08:43:20,072 - INFO - Date conversion: 3380/3380 successful (100.0%)
+2025-08-04 08:43:20,074 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:43:20,075 - INFO - Commodities: category (no null values)
+2025-08-04 08:43:20,076 - INFO - City: category (no null values)
+2025-08-04 08:43:20,078 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:43:20,080 - INFO -   Date range: 2022-01-03 00:00:00 to 2022-12-30 00:00:00
+2025-08-04 08:43:20,081 - INFO - Price: int64 (no null values)
+2025-08-04 08:43:20,081 - INFO -   Price range: 12,900 - 72,500
+2025-08-04 08:43:20,083 - INFO - Successfully processed 2022.xlsx for kota-pontianak
+2025-08-04 08:43:20,134 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:43:20,137 - INFO - Price conversion: 3380/3380 successful (100.0%)
+2025-08-04 08:43:20,143 - INFO - Date conversion: 3380/3380 successful (100.0%)
+2025-08-04 08:43:20,145 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:43:20,147 - INFO - Commodities: category (no null values)
+2025-08-04 08:43:20,147 - INFO - City: category (no null values)
+2025-08-04 08:43:20,149 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:43:20,150 - INFO -   Date range: 2023-01-02 00:00:00 to 2023-12-29 00:00:00
+2025-08-04 08:43:20,150 - INFO - Price: int64 (no null values)
+2025-08-04 08:43:20,151 - INFO -   Price range: 13,750 - 53,900
+2025-08-04 08:43:20,152 - INFO - Successfully processed 2023.xlsx for kota-pontianak
+2025-08-04 08:43:20,306 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:43:20,312 - INFO - Price conversion: 8122/8122 successful (100.0%)
+2025-08-04 08:43:20,314 - INFO - Date conversion: 8122/8122 successful (100.0%)
+2025-08-04 08:43:20,317 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:43:20,318 - INFO - Commodities: category (no null values)
+2025-08-04 08:43:20,319 - INFO - City: category (no null values)
+2025-08-04 08:43:20,320 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:43:20,321 - INFO -   Date range: 2024-01-01 00:00:00 to 2024-12-31 00:00:00
+2025-08-04 08:43:20,321 - INFO - Price: int64 (no null values)
+2025-08-04 08:43:20,322 - INFO -   Price range: 13,000 - 160,000
+2025-08-04 08:43:20,323 - INFO - Successfully processed 2024.xlsx for kota-pontianak
+2025-08-04 08:43:20,383 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:43:20,386 - INFO - Price conversion: 3900/3900 successful (100.0%)
+2025-08-04 08:43:20,389 - INFO - Date conversion: 3900/3900 successful (100.0%)
+2025-08-04 08:43:20,390 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:43:20,391 - INFO - Commodities: category (no null values)
+2025-08-04 08:43:20,392 - INFO - City: category (no null values)
+2025-08-04 08:43:20,393 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:43:20,394 - INFO -   Date range: 2022-01-03 00:00:00 to 2022-12-30 00:00:00
+2025-08-04 08:43:20,395 - INFO - Price: int64 (no null values)
+2025-08-04 08:43:20,396 - INFO -   Price range: 9,750 - 44,500
+2025-08-04 08:43:20,397 - INFO - Successfully processed 2022.xlsx for kota-singkawang
+2025-08-04 08:43:20,452 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:43:20,456 - INFO - Price conversion: 3900/3900 successful (100.0%)
+2025-08-04 08:43:20,458 - INFO - Date conversion: 3900/3900 successful (100.0%)
+2025-08-04 08:43:20,461 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:43:20,462 - INFO - Commodities: category (no null values)
+2025-08-04 08:43:20,462 - INFO - City: category (no null values)
+2025-08-04 08:43:20,463 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:43:20,464 - INFO -   Date range: 2023-01-02 00:00:00 to 2023-12-29 00:00:00
+2025-08-04 08:43:20,466 - INFO - Price: int64 (no null values)
+2025-08-04 08:43:20,467 - INFO -   Price range: 9,900 - 44,500
+2025-08-04 08:43:20,467 - INFO - Successfully processed 2023.xlsx for kota-singkawang
+2025-08-04 08:43:20,547 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:43:20,555 - INFO - Price conversion: 7598/7598 successful (100.0%)
+2025-08-04 08:43:20,559 - INFO - Date conversion: 7598/7598 successful (100.0%)
+2025-08-04 08:43:20,562 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:43:20,563 - INFO - Commodities: category (no null values)
+2025-08-04 08:43:20,563 - INFO - City: category (no null values)
+2025-08-04 08:43:20,564 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:43:20,565 - INFO -   Date range: 2024-01-01 00:00:00 to 2024-12-31 00:00:00
+2025-08-04 08:43:20,566 - INFO - Price: int64 (no null values)
+2025-08-04 08:43:20,566 - INFO -   Price range: 12,750 - 160,000
+2025-08-04 08:43:20,568 - INFO - Successfully processed 2024.xlsx for kota-singkawang
+2025-08-04 08:43:20,622 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:43:20,626 - INFO - Price conversion: 3900/3900 successful (100.0%)
+2025-08-04 08:43:20,629 - INFO - Date conversion: 3900/3900 successful (100.0%)
+2025-08-04 08:43:20,631 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:43:20,631 - INFO - Commodities: category (no null values)
+2025-08-04 08:43:20,632 - INFO - City: category (no null values)
+2025-08-04 08:43:20,633 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:43:20,634 - INFO -   Date range: 2022-01-03 00:00:00 to 2022-12-30 00:00:00
+2025-08-04 08:43:20,634 - INFO - Price: int64 (no null values)
+2025-08-04 08:43:20,635 - INFO -   Price range: 10,650 - 76,250
+2025-08-04 08:43:20,636 - INFO - Successfully processed 2022.xlsx for kota-banjarmasin
+2025-08-04 08:43:20,688 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:43:20,693 - INFO - Price conversion: 3900/3900 successful (100.0%)
+2025-08-04 08:43:20,696 - INFO - Date conversion: 3900/3900 successful (100.0%)
+2025-08-04 08:43:20,698 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:43:20,699 - INFO - Commodities: category (no null values)
+2025-08-04 08:43:20,699 - INFO - City: category (no null values)
+2025-08-04 08:43:20,700 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:43:20,701 - INFO -   Date range: 2023-01-02 00:00:00 to 2023-12-29 00:00:00
+2025-08-04 08:43:20,702 - INFO - Price: int64 (no null values)
+2025-08-04 08:43:20,702 - INFO -   Price range: 12,350 - 50,000
+2025-08-04 08:43:20,704 - INFO - Successfully processed 2023.xlsx for kota-banjarmasin
+2025-08-04 08:43:20,785 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:43:20,791 - INFO - Price conversion: 8122/8122 successful (100.0%)
+2025-08-04 08:43:20,793 - INFO - Date conversion: 8122/8122 successful (100.0%)
+2025-08-04 08:43:20,796 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:43:20,797 - INFO - Commodities: category (no null values)
+2025-08-04 08:43:20,798 - INFO - City: category (no null values)
+2025-08-04 08:43:20,799 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:43:20,800 - INFO -   Date range: 2024-01-01 00:00:00 to 2024-12-31 00:00:00
+2025-08-04 08:43:20,801 - INFO - Price: int64 (no null values)
+2025-08-04 08:43:20,802 - INFO -   Price range: 13,000 - 166,250
+2025-08-04 08:43:20,803 - INFO - Successfully processed 2024.xlsx for kota-banjarmasin
+2025-08-04 08:43:20,859 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:43:20,862 - INFO - Price conversion: 3900/3900 successful (100.0%)
+2025-08-04 08:43:20,865 - INFO - Date conversion: 3900/3900 successful (100.0%)
+2025-08-04 08:43:20,867 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:43:20,867 - INFO - Commodities: category (no null values)
+2025-08-04 08:43:20,868 - INFO - City: category (no null values)
+2025-08-04 08:43:20,869 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:43:20,869 - INFO -   Date range: 2022-01-03 00:00:00 to 2022-12-30 00:00:00
+2025-08-04 08:43:20,871 - INFO - Price: int64 (no null values)
+2025-08-04 08:43:20,871 - INFO -   Price range: 8,750 - 72,500
+2025-08-04 08:43:20,872 - INFO - Successfully processed 2022.xlsx for kota-tanjung
+2025-08-04 08:43:20,991 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:43:20,995 - INFO - Price conversion: 3900/3900 successful (100.0%)
+2025-08-04 08:43:20,998 - INFO - Date conversion: 3900/3900 successful (100.0%)
+2025-08-04 08:43:21,000 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:43:21,000 - INFO - Commodities: category (no null values)
+2025-08-04 08:43:21,000 - INFO - City: category (no null values)
+2025-08-04 08:43:21,001 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:43:21,002 - INFO -   Date range: 2023-01-02 00:00:00 to 2023-12-29 00:00:00
+2025-08-04 08:43:21,002 - INFO - Price: int64 (no null values)
+2025-08-04 08:43:21,003 - INFO -   Price range: 11,900 - 50,000
+2025-08-04 08:43:21,004 - INFO - Successfully processed 2023.xlsx for kota-tanjung
+2025-08-04 08:43:21,082 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:43:21,087 - INFO - Price conversion: 8122/8122 successful (100.0%)
+2025-08-04 08:43:21,090 - INFO - Date conversion: 8122/8122 successful (100.0%)
+2025-08-04 08:43:21,092 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:43:21,093 - INFO - Commodities: category (no null values)
+2025-08-04 08:43:21,094 - INFO - City: category (no null values)
+2025-08-04 08:43:21,095 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:43:21,096 - INFO -   Date range: 2024-01-01 00:00:00 to 2024-12-31 00:00:00
+2025-08-04 08:43:21,096 - INFO - Price: int64 (no null values)
+2025-08-04 08:43:21,097 - INFO -   Price range: 10,500 - 160,000
+2025-08-04 08:43:21,098 - INFO - Successfully processed 2024.xlsx for kota-tanjung
+2025-08-04 08:43:21,151 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:43:21,154 - INFO - Price conversion: 3900/3900 successful (100.0%)
+2025-08-04 08:43:21,156 - INFO - Date conversion: 3900/3900 successful (100.0%)
+2025-08-04 08:43:21,158 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:43:21,159 - INFO - Commodities: category (no null values)
+2025-08-04 08:43:21,160 - INFO - City: category (no null values)
+2025-08-04 08:43:21,161 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:43:21,161 - INFO -   Date range: 2022-01-03 00:00:00 to 2022-12-30 00:00:00
+2025-08-04 08:43:21,162 - INFO - Price: int64 (no null values)
+2025-08-04 08:43:21,162 - INFO -   Price range: 11,000 - 73,750
+2025-08-04 08:43:21,164 - INFO - Successfully processed 2022.xlsx for kota-palangkaraya
+2025-08-04 08:43:21,216 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:43:21,219 - INFO - Price conversion: 3900/3900 successful (100.0%)
+2025-08-04 08:43:21,221 - INFO - Date conversion: 3900/3900 successful (100.0%)
+2025-08-04 08:43:21,223 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:43:21,224 - INFO - Commodities: category (no null values)
+2025-08-04 08:43:21,224 - INFO - City: category (no null values)
+2025-08-04 08:43:21,225 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:43:21,226 - INFO -   Date range: 2023-01-02 00:00:00 to 2023-12-29 00:00:00
+2025-08-04 08:43:21,226 - INFO - Price: int64 (no null values)
+2025-08-04 08:43:21,228 - INFO -   Price range: 11,900 - 51,500
+2025-08-04 08:43:21,229 - INFO - Successfully processed 2023.xlsx for kota-palangkaraya
+2025-08-04 08:43:21,306 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:43:21,313 - INFO - Price conversion: 8122/8122 successful (100.0%)
+2025-08-04 08:43:21,315 - INFO - Date conversion: 8122/8122 successful (100.0%)
+2025-08-04 08:43:21,318 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:43:21,318 - INFO - Commodities: category (no null values)
+2025-08-04 08:43:21,319 - INFO - City: category (no null values)
+2025-08-04 08:43:21,319 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:43:21,320 - INFO -   Date range: 2024-01-01 00:00:00 to 2024-12-31 00:00:00
+2025-08-04 08:43:21,322 - INFO - Price: int64 (no null values)
+2025-08-04 08:43:21,323 - INFO -   Price range: 14,500 - 160,000
+2025-08-04 08:43:21,326 - INFO - Successfully processed 2024.xlsx for kota-palangkaraya
+2025-08-04 08:43:21,410 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:43:21,414 - INFO - Price conversion: 3900/3900 successful (100.0%)
+2025-08-04 08:43:21,416 - INFO - Date conversion: 3900/3900 successful (100.0%)
+2025-08-04 08:43:21,417 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:43:21,418 - INFO - Commodities: category (no null values)
+2025-08-04 08:43:21,419 - INFO - City: category (no null values)
+2025-08-04 08:43:21,420 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:43:21,420 - INFO -   Date range: 2022-01-03 00:00:00 to 2022-12-30 00:00:00
+2025-08-04 08:43:21,421 - INFO - Price: int64 (no null values)
+2025-08-04 08:43:21,422 - INFO -   Price range: 9,650 - 70,000
+2025-08-04 08:43:21,423 - INFO - Successfully processed 2022.xlsx for kota-sampit
+2025-08-04 08:43:21,476 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:43:21,480 - INFO - Price conversion: 3900/3900 successful (100.0%)
+2025-08-04 08:43:21,483 - INFO - Date conversion: 3900/3900 successful (100.0%)
+2025-08-04 08:43:21,485 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:43:21,486 - INFO - Commodities: category (no null values)
+2025-08-04 08:43:21,486 - INFO - City: category (no null values)
+2025-08-04 08:43:21,487 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:43:21,488 - INFO -   Date range: 2023-01-02 00:00:00 to 2023-12-29 00:00:00
+2025-08-04 08:43:21,489 - INFO - Price: int64 (no null values)
+2025-08-04 08:43:21,489 - INFO -   Price range: 11,400 - 53,750
+2025-08-04 08:43:21,490 - INFO - Successfully processed 2023.xlsx for kota-sampit
+2025-08-04 08:43:21,571 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:43:21,578 - INFO - Price conversion: 8122/8122 successful (100.0%)
+2025-08-04 08:43:21,580 - INFO - Date conversion: 8122/8122 successful (100.0%)
+2025-08-04 08:43:21,582 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:43:21,582 - INFO - Commodities: category (no null values)
+2025-08-04 08:43:21,583 - INFO - City: category (no null values)
+2025-08-04 08:43:21,584 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:43:21,585 - INFO -   Date range: 2024-01-01 00:00:00 to 2024-12-31 00:00:00
+2025-08-04 08:43:21,585 - INFO - Price: int64 (no null values)
+2025-08-04 08:43:21,586 - INFO -   Price range: 14,000 - 162,500
+2025-08-04 08:43:21,588 - INFO - Successfully processed 2024.xlsx for kota-sampit
+2025-08-04 08:43:21,640 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:43:21,644 - INFO - Price conversion: 3900/3900 successful (100.0%)
+2025-08-04 08:43:21,647 - INFO - Date conversion: 3900/3900 successful (100.0%)
+2025-08-04 08:43:21,649 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:43:21,649 - INFO - Commodities: category (no null values)
+2025-08-04 08:43:21,650 - INFO - City: category (no null values)
+2025-08-04 08:43:21,651 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:43:21,651 - INFO -   Date range: 2022-01-03 00:00:00 to 2022-12-30 00:00:00
+2025-08-04 08:43:21,652 - INFO - Price: int64 (no null values)
+2025-08-04 08:43:21,653 - INFO -   Price range: 9,350 - 88,750
+2025-08-04 08:43:21,654 - INFO - Successfully processed 2022.xlsx for kota-balikpapan
+2025-08-04 08:43:21,707 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:43:21,711 - INFO - Price conversion: 3900/3900 successful (100.0%)
+2025-08-04 08:43:21,713 - INFO - Date conversion: 3900/3900 successful (100.0%)
+2025-08-04 08:43:21,715 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:43:21,716 - INFO - Commodities: category (no null values)
+2025-08-04 08:43:21,717 - INFO - City: category (no null values)
+2025-08-04 08:43:21,717 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:43:21,718 - INFO -   Date range: 2023-01-02 00:00:00 to 2023-12-29 00:00:00
+2025-08-04 08:43:21,719 - INFO - Price: int64 (no null values)
+2025-08-04 08:43:21,719 - INFO -   Price range: 12,000 - 47,500
+2025-08-04 08:43:21,720 - INFO - Successfully processed 2023.xlsx for kota-balikpapan
+2025-08-04 08:43:21,869 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:43:21,878 - INFO - Price conversion: 8122/8122 successful (100.0%)
+2025-08-04 08:43:21,882 - INFO - Date conversion: 8122/8122 successful (100.0%)
+2025-08-04 08:43:21,884 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:43:21,885 - INFO - Commodities: category (no null values)
+2025-08-04 08:43:21,885 - INFO - City: category (no null values)
+2025-08-04 08:43:21,886 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:43:21,888 - INFO -   Date range: 2024-01-01 00:00:00 to 2024-12-31 00:00:00
+2025-08-04 08:43:21,889 - INFO - Price: int64 (no null values)
+2025-08-04 08:43:21,890 - INFO -   Price range: 12,800 - 165,000
+2025-08-04 08:43:21,893 - INFO - Successfully processed 2024.xlsx for kota-balikpapan
+2025-08-04 08:43:21,949 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:43:21,953 - INFO - Price conversion: 3900/3900 successful (100.0%)
+2025-08-04 08:43:21,954 - INFO - Date conversion: 3900/3900 successful (100.0%)
+2025-08-04 08:43:21,956 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:43:21,957 - INFO - Commodities: category (no null values)
+2025-08-04 08:43:21,957 - INFO - City: category (no null values)
+2025-08-04 08:43:21,958 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:43:21,959 - INFO -   Date range: 2022-01-03 00:00:00 to 2022-12-30 00:00:00
+2025-08-04 08:43:21,960 - INFO - Price: int64 (no null values)
+2025-08-04 08:43:21,961 - INFO -   Price range: 10,500 - 72,500
+2025-08-04 08:43:21,962 - INFO - Successfully processed 2022.xlsx for kota-samarinda
+2025-08-04 08:43:22,015 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:43:22,018 - INFO - Price conversion: 3900/3900 successful (100.0%)
+2025-08-04 08:43:22,020 - INFO - Date conversion: 3900/3900 successful (100.0%)
+2025-08-04 08:43:22,021 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:43:22,022 - INFO - Commodities: category (no null values)
+2025-08-04 08:43:22,023 - INFO - City: category (no null values)
+2025-08-04 08:43:22,024 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:43:22,025 - INFO -   Date range: 2023-01-02 00:00:00 to 2023-12-29 00:00:00
+2025-08-04 08:43:22,025 - INFO - Price: int64 (no null values)
+2025-08-04 08:43:22,026 - INFO -   Price range: 12,000 - 51,000
+2025-08-04 08:43:22,028 - INFO - Successfully processed 2023.xlsx for kota-samarinda
+2025-08-04 08:43:22,112 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:43:22,118 - INFO - Price conversion: 8122/8122 successful (100.0%)
+2025-08-04 08:43:22,121 - INFO - Date conversion: 8122/8122 successful (100.0%)
+2025-08-04 08:43:22,123 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:43:22,124 - INFO - Commodities: category (no null values)
+2025-08-04 08:43:22,124 - INFO - City: category (no null values)
+2025-08-04 08:43:22,125 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:43:22,126 - INFO -   Date range: 2024-01-01 00:00:00 to 2024-12-31 00:00:00
+2025-08-04 08:43:22,127 - INFO - Price: int64 (no null values)
+2025-08-04 08:43:22,127 - INFO -   Price range: 14,000 - 158,750
+2025-08-04 08:43:22,129 - INFO - Successfully processed 2024.xlsx for kota-samarinda
+2025-08-04 08:43:22,181 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:43:22,185 - INFO - Price conversion: 3900/3900 successful (100.0%)
+2025-08-04 08:43:22,187 - INFO - Date conversion: 3900/3900 successful (100.0%)
+2025-08-04 08:43:22,188 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:43:22,188 - INFO - Commodities: category (no null values)
+2025-08-04 08:43:22,190 - INFO - City: category (no null values)
+2025-08-04 08:43:22,190 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:43:22,191 - INFO -   Date range: 2022-01-03 00:00:00 to 2022-12-30 00:00:00
+2025-08-04 08:43:22,192 - INFO - Price: int64 (no null values)
+2025-08-04 08:43:22,193 - INFO -   Price range: 12,000 - 75,000
+2025-08-04 08:43:22,194 - INFO - Successfully processed 2022.xlsx for kota-tarakan
+2025-08-04 08:43:22,245 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:43:22,249 - INFO - Price conversion: 3900/3900 successful (100.0%)
+2025-08-04 08:43:22,251 - INFO - Date conversion: 3900/3900 successful (100.0%)
+2025-08-04 08:43:22,252 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:43:22,253 - INFO - Commodities: category (no null values)
+2025-08-04 08:43:22,254 - INFO - City: category (no null values)
+2025-08-04 08:43:22,254 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:43:22,255 - INFO -   Date range: 2023-01-02 00:00:00 to 2023-12-29 00:00:00
+2025-08-04 08:43:22,256 - INFO - Price: int64 (no null values)
+2025-08-04 08:43:22,256 - INFO -   Price range: 13,400 - 52,500
+2025-08-04 08:43:22,258 - INFO - Successfully processed 2023.xlsx for kota-tarakan
+2025-08-04 08:43:22,340 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:43:22,346 - INFO - Price conversion: 8122/8122 successful (100.0%)
+2025-08-04 08:43:22,349 - INFO - Date conversion: 8122/8122 successful (100.0%)
+2025-08-04 08:43:22,351 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:43:22,352 - INFO - Commodities: category (no null values)
+2025-08-04 08:43:22,352 - INFO - City: category (no null values)
+2025-08-04 08:43:22,353 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:43:22,354 - INFO -   Date range: 2024-01-01 00:00:00 to 2024-12-31 00:00:00
+2025-08-04 08:43:22,354 - INFO - Price: int64 (no null values)
+2025-08-04 08:43:22,355 - INFO -   Price range: 14,500 - 150,000
+2025-08-04 08:43:22,356 - INFO - Successfully processed 2024.xlsx for kota-tarakan
+2025-08-04 08:43:22,357 - INFO - Successfully processed 30/30 files
+2025-08-04 08:43:22,357 - INFO - Consolidating data into master DataFrame...
+2025-08-04 08:43:22,364 - INFO - === Data Summary ===
+2025-08-04 08:43:22,365 - INFO - Total records: 15,640
+2025-08-04 08:43:22,366 - INFO - Cities: 10
+2025-08-04 08:43:22,367 - INFO - Commodities: 2
+2025-08-04 08:43:22,367 - INFO - Date range: 782 unique dates
+2025-08-04 08:43:22,368 - INFO - === Data Types ===
+2025-08-04 08:43:22,369 - INFO - Commodities: object
+2025-08-04 08:43:22,369 - INFO - City: object
+2025-08-04 08:43:22,370 - INFO - Date: datetime64[ns]
+2025-08-04 08:43:22,370 - INFO - Price: int64
+2025-08-04 08:43:22,372 - INFO - No missing values in final dataset
+2025-08-04 08:43:22,373 - INFO - Cities included: kab-sintang, kota-balikpapan, kota-banjarmasin, kota-palangkaraya, kota-pontianak, kota-samarinda, kota-sampit, kota-singkawang, kota-tanjung, kota-tarakan
+2025-08-04 08:43:22,374 - INFO - Commodities included: Beras, Telur Ayam
+2025-08-04 08:43:22,376 - INFO - Price range: 11,900 - 37,600
+2025-08-04 08:43:22,377 - INFO - Average price: 22,834
+2025-08-04 08:43:22,377 - INFO - Data consolidation pipeline completed successfully!
+2025-08-04 08:43:22,382 - INFO - Starting data consolidation pipeline...
+2025-08-04 08:43:22,383 - INFO - Starting consolidation in: C:\Users\UNTAR\Semester 7\FINAL THESIS CODE\clustering-food-prices-kalimantan\data\raw
+2025-08-04 08:43:22,386 - INFO - Found 12 files after filtering (out of 80 total)
+2025-08-04 08:43:22,387 - INFO - Found 12 Excel files to process
+2025-08-04 08:43:22,464 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:43:22,468 - INFO - Price conversion: 3406/3406 successful (100.0%)
+2025-08-04 08:43:22,479 - INFO - Date conversion: 3406/3406 successful (100.0%)
+2025-08-04 08:43:22,482 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:43:22,483 - INFO - Commodities: category (no null values)
+2025-08-04 08:43:22,484 - INFO - City: category (no null values)
+2025-08-04 08:43:22,485 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:43:22,486 - INFO -   Date range: 2020-01-01 00:00:00 to 2020-12-31 00:00:00
+2025-08-04 08:43:22,486 - INFO - Price: int64 (no null values)
+2025-08-04 08:43:22,487 - INFO -   Price range: 12,950 - 62,650
+2025-08-04 08:43:22,488 - INFO - Successfully processed 2020.xlsx for kota-pontianak
+2025-08-04 08:43:22,538 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:43:22,541 - INFO - Price conversion: 3393/3393 successful (100.0%)
+2025-08-04 08:43:22,548 - INFO - Date conversion: 3393/3393 successful (100.0%)
+2025-08-04 08:43:22,550 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:43:22,551 - INFO - Commodities: category (no null values)
+2025-08-04 08:43:22,552 - INFO - City: category (no null values)
+2025-08-04 08:43:22,553 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:43:22,553 - INFO -   Date range: 2021-01-01 00:00:00 to 2021-12-31 00:00:00
+2025-08-04 08:43:22,554 - INFO - Price: int64 (no null values)
+2025-08-04 08:43:22,555 - INFO -   Price range: 12,850 - 40,400
+2025-08-04 08:43:22,556 - INFO - Successfully processed 2021.xlsx for kota-pontianak
+2025-08-04 08:43:22,610 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:43:22,614 - INFO - Price conversion: 3380/3380 successful (100.0%)
+2025-08-04 08:43:22,621 - INFO - Date conversion: 3380/3380 successful (100.0%)
+2025-08-04 08:43:22,624 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:43:22,626 - INFO - Commodities: category (no null values)
+2025-08-04 08:43:22,627 - INFO - City: category (no null values)
+2025-08-04 08:43:22,629 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:43:22,630 - INFO -   Date range: 2022-01-03 00:00:00 to 2022-12-30 00:00:00
+2025-08-04 08:43:22,631 - INFO - Price: int64 (no null values)
+2025-08-04 08:43:22,632 - INFO -   Price range: 12,900 - 72,500
+2025-08-04 08:43:22,633 - INFO - Successfully processed 2022.xlsx for kota-pontianak
+2025-08-04 08:43:22,690 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:43:22,694 - INFO - Price conversion: 3380/3380 successful (100.0%)
+2025-08-04 08:43:22,701 - INFO - Date conversion: 3380/3380 successful (100.0%)
+2025-08-04 08:43:22,704 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:43:22,704 - INFO - Commodities: category (no null values)
+2025-08-04 08:43:22,705 - INFO - City: category (no null values)
+2025-08-04 08:43:22,706 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:43:22,707 - INFO -   Date range: 2023-01-02 00:00:00 to 2023-12-29 00:00:00
+2025-08-04 08:43:22,707 - INFO - Price: int64 (no null values)
+2025-08-04 08:43:22,709 - INFO -   Price range: 13,750 - 53,900
+2025-08-04 08:43:22,711 - INFO - Successfully processed 2023.xlsx for kota-pontianak
+2025-08-04 08:43:22,862 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:43:22,866 - INFO - Price conversion: 3930/3930 successful (100.0%)
+2025-08-04 08:43:22,869 - INFO - Date conversion: 3930/3930 successful (100.0%)
+2025-08-04 08:43:22,870 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:43:22,871 - INFO - Commodities: category (no null values)
+2025-08-04 08:43:22,871 - INFO - City: category (no null values)
+2025-08-04 08:43:22,872 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:43:22,873 - INFO -   Date range: 2020-01-01 00:00:00 to 2020-12-31 00:00:00
+2025-08-04 08:43:22,874 - INFO - Price: int64 (no null values)
+2025-08-04 08:43:22,874 - INFO -   Price range: 10,650 - 65,000
+2025-08-04 08:43:22,877 - INFO - Successfully processed 2020.xlsx for kota-banjarmasin
+2025-08-04 08:43:22,934 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:43:22,938 - INFO - Price conversion: 3915/3915 successful (100.0%)
+2025-08-04 08:43:22,941 - INFO - Date conversion: 3915/3915 successful (100.0%)
+2025-08-04 08:43:22,943 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:43:22,944 - INFO - Commodities: category (no null values)
+2025-08-04 08:43:22,946 - INFO - City: category (no null values)
+2025-08-04 08:43:22,947 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:43:22,948 - INFO -   Date range: 2021-01-01 00:00:00 to 2021-12-31 00:00:00
+2025-08-04 08:43:22,949 - INFO - Price: int64 (no null values)
+2025-08-04 08:43:22,949 - INFO -   Price range: 10,950 - 46,750
+2025-08-04 08:43:22,951 - INFO - Successfully processed 2021.xlsx for kota-banjarmasin
+2025-08-04 08:43:23,013 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:43:23,016 - INFO - Price conversion: 3900/3900 successful (100.0%)
+2025-08-04 08:43:23,018 - INFO - Date conversion: 3900/3900 successful (100.0%)
+2025-08-04 08:43:23,020 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:43:23,020 - INFO - Commodities: category (no null values)
+2025-08-04 08:43:23,021 - INFO - City: category (no null values)
+2025-08-04 08:43:23,022 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:43:23,023 - INFO -   Date range: 2022-01-03 00:00:00 to 2022-12-30 00:00:00
+2025-08-04 08:43:23,023 - INFO - Price: int64 (no null values)
+2025-08-04 08:43:23,024 - INFO -   Price range: 10,650 - 76,250
+2025-08-04 08:43:23,025 - INFO - Successfully processed 2022.xlsx for kota-banjarmasin
+2025-08-04 08:43:23,082 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:43:23,087 - INFO - Price conversion: 3900/3900 successful (100.0%)
+2025-08-04 08:43:23,089 - INFO - Date conversion: 3900/3900 successful (100.0%)
+2025-08-04 08:43:23,090 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:43:23,091 - INFO - Commodities: category (no null values)
+2025-08-04 08:43:23,092 - INFO - City: category (no null values)
+2025-08-04 08:43:23,092 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:43:23,094 - INFO -   Date range: 2023-01-02 00:00:00 to 2023-12-29 00:00:00
+2025-08-04 08:43:23,095 - INFO - Price: int64 (no null values)
+2025-08-04 08:43:23,096 - INFO -   Price range: 12,350 - 50,000
+2025-08-04 08:43:23,097 - INFO - Successfully processed 2023.xlsx for kota-banjarmasin
+2025-08-04 08:43:23,151 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:43:23,155 - INFO - Price conversion: 3930/3930 successful (100.0%)
+2025-08-04 08:43:23,157 - INFO - Date conversion: 3930/3930 successful (100.0%)
+2025-08-04 08:43:23,158 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:43:23,159 - INFO - Commodities: category (no null values)
+2025-08-04 08:43:23,160 - INFO - City: category (no null values)
+2025-08-04 08:43:23,161 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:43:23,162 - INFO -   Date range: 2020-01-01 00:00:00 to 2020-12-31 00:00:00
+2025-08-04 08:43:23,163 - INFO - Price: int64 (no null values)
+2025-08-04 08:43:23,164 - INFO -   Price range: 9,800 - 65,000
+2025-08-04 08:43:23,165 - INFO - Successfully processed 2020.xlsx for kota-samarinda
+2025-08-04 08:43:23,219 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:43:23,223 - INFO - Price conversion: 3915/3915 successful (100.0%)
+2025-08-04 08:43:23,225 - INFO - Date conversion: 3915/3915 successful (100.0%)
+2025-08-04 08:43:23,227 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:43:23,228 - INFO - Commodities: category (no null values)
+2025-08-04 08:43:23,229 - INFO - City: category (no null values)
+2025-08-04 08:43:23,230 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:43:23,231 - INFO -   Date range: 2021-01-01 00:00:00 to 2021-12-31 00:00:00
+2025-08-04 08:43:23,231 - INFO - Price: int64 (no null values)
+2025-08-04 08:43:23,232 - INFO -   Price range: 10,250 - 43,200
+2025-08-04 08:43:23,233 - INFO - Successfully processed 2021.xlsx for kota-samarinda
+2025-08-04 08:43:23,287 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:43:23,290 - INFO - Price conversion: 3900/3900 successful (100.0%)
+2025-08-04 08:43:23,292 - INFO - Date conversion: 3900/3900 successful (100.0%)
+2025-08-04 08:43:23,294 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:43:23,295 - INFO - Commodities: category (no null values)
+2025-08-04 08:43:23,296 - INFO - City: category (no null values)
+2025-08-04 08:43:23,297 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:43:23,297 - INFO -   Date range: 2022-01-03 00:00:00 to 2022-12-30 00:00:00
+2025-08-04 08:43:23,298 - INFO - Price: int64 (no null values)
+2025-08-04 08:43:23,299 - INFO -   Price range: 10,500 - 72,500
+2025-08-04 08:43:23,299 - INFO - Successfully processed 2022.xlsx for kota-samarinda
+2025-08-04 08:43:23,352 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:43:23,355 - INFO - Price conversion: 3900/3900 successful (100.0%)
+2025-08-04 08:43:23,357 - INFO - Date conversion: 3900/3900 successful (100.0%)
+2025-08-04 08:43:23,359 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:43:23,360 - INFO - Commodities: category (no null values)
+2025-08-04 08:43:23,361 - INFO - City: category (no null values)
+2025-08-04 08:43:23,362 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:43:23,363 - INFO -   Date range: 2023-01-02 00:00:00 to 2023-12-29 00:00:00
+2025-08-04 08:43:23,364 - INFO - Price: int64 (no null values)
+2025-08-04 08:43:23,364 - INFO -   Price range: 12,000 - 51,000
+2025-08-04 08:43:23,365 - INFO - Successfully processed 2023.xlsx for kota-samarinda
+2025-08-04 08:43:23,366 - INFO - Successfully processed 12/12 files
+2025-08-04 08:43:23,367 - INFO - Consolidating data into master DataFrame...
+2025-08-04 08:43:23,370 - INFO - === Data Summary ===
+2025-08-04 08:43:23,370 - INFO - Total records: 9,387
+2025-08-04 08:43:23,371 - INFO - Cities: 3
+2025-08-04 08:43:23,372 - INFO - Commodities: 3
+2025-08-04 08:43:23,373 - INFO - Date range: 1043 unique dates
+2025-08-04 08:43:23,373 - INFO - === Data Types ===
+2025-08-04 08:43:23,374 - INFO - Commodities: object
+2025-08-04 08:43:23,374 - INFO - City: object
+2025-08-04 08:43:23,375 - INFO - Date: datetime64[ns]
+2025-08-04 08:43:23,375 - INFO - Price: int64
+2025-08-04 08:43:23,377 - INFO - No missing values in final dataset
+2025-08-04 08:43:23,377 - INFO - Cities included: kota-banjarmasin, kota-pontianak, kota-samarinda
+2025-08-04 08:43:23,379 - INFO - Commodities included: Beras, Daging Ayam, Telur Ayam
+2025-08-04 08:43:23,382 - INFO - Price range: 12,100 - 51,000
+2025-08-04 08:43:23,382 - INFO - Average price: 25,774
+2025-08-04 08:43:23,383 - INFO - Data consolidation pipeline completed successfully!
+2025-08-04 08:49:26,944 - INFO - Starting data consolidation pipeline...
+2025-08-04 08:49:26,945 - INFO - Starting consolidation in: C:\Users\UNTAR\Semester 7\FINAL THESIS CODE\clustering-food-prices-kalimantan\data\raw
+2025-08-04 08:49:26,948 - INFO - Found 70 files after filtering (out of 80 total)
+2025-08-04 08:49:26,949 - INFO - Found 70 Excel files to process
+2025-08-04 08:49:27,039 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:49:27,045 - INFO - Price conversion: 8091/8091 successful (100.0%)
+2025-08-04 08:49:27,048 - INFO - Date conversion: 8091/8091 successful (100.0%)
+2025-08-04 08:49:27,050 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:49:27,051 - INFO - Commodities: category (no null values)
+2025-08-04 08:49:27,051 - INFO - City: category (no null values)
+2025-08-04 08:49:27,052 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:49:27,053 - INFO -   Date range: 2018-01-01 00:00:00 to 2018-12-31 00:00:00
+2025-08-04 08:49:27,054 - INFO - Price: int64 (no null values)
+2025-08-04 08:49:27,055 - INFO -   Price range: 8,600 - 128,000
+2025-08-04 08:49:27,056 - INFO - Successfully processed 2018.xlsx for kab-sintang
+2025-08-04 08:49:27,186 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:49:27,192 - INFO - Price conversion: 8091/8091 successful (100.0%)
+2025-08-04 08:49:27,195 - INFO - Date conversion: 8091/8091 successful (100.0%)
+2025-08-04 08:49:27,198 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:49:27,199 - INFO - Commodities: category (no null values)
+2025-08-04 08:49:27,200 - INFO - City: category (no null values)
+2025-08-04 08:49:27,200 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:49:27,201 - INFO -   Date range: 2019-01-01 00:00:00 to 2019-12-31 00:00:00
+2025-08-04 08:49:27,202 - INFO - Price: int64 (no null values)
+2025-08-04 08:49:27,203 - INFO -   Price range: 8,400 - 130,000
+2025-08-04 08:49:27,204 - INFO - Successfully processed 2019.xlsx for kab-sintang
+2025-08-04 08:49:27,371 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:49:27,377 - INFO - Price conversion: 8122/8122 successful (100.0%)
+2025-08-04 08:49:27,380 - INFO - Date conversion: 8122/8122 successful (100.0%)
+2025-08-04 08:49:27,383 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:49:27,383 - INFO - Commodities: category (no null values)
+2025-08-04 08:49:27,384 - INFO - City: category (no null values)
+2025-08-04 08:49:27,385 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:49:27,386 - INFO -   Date range: 2020-01-01 00:00:00 to 2020-12-31 00:00:00
+2025-08-04 08:49:27,386 - INFO - Price: int64 (no null values)
+2025-08-04 08:49:27,387 - INFO -   Price range: 9,900 - 130,450
+2025-08-04 08:49:27,388 - INFO - Successfully processed 2020.xlsx for kab-sintang
+2025-08-04 08:49:27,468 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:49:27,474 - INFO - Price conversion: 8091/8091 successful (100.0%)
+2025-08-04 08:49:27,476 - INFO - Date conversion: 8091/8091 successful (100.0%)
+2025-08-04 08:49:27,479 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:49:27,481 - INFO - Commodities: category (no null values)
+2025-08-04 08:49:27,482 - INFO - City: category (no null values)
+2025-08-04 08:49:27,482 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:49:27,483 - INFO -   Date range: 2021-01-01 00:00:00 to 2021-12-31 00:00:00
+2025-08-04 08:49:27,484 - INFO - Price: int64 (no null values)
+2025-08-04 08:49:27,484 - INFO -   Price range: 9,350 - 242,500
+2025-08-04 08:49:27,486 - INFO - Successfully processed 2021.xlsx for kab-sintang
+2025-08-04 08:49:27,565 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:49:27,571 - INFO - Price conversion: 8060/8060 successful (100.0%)
+2025-08-04 08:49:27,573 - INFO - Date conversion: 8060/8060 successful (100.0%)
+2025-08-04 08:49:27,575 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:49:27,576 - INFO - Commodities: category (no null values)
+2025-08-04 08:49:27,577 - INFO - City: category (no null values)
+2025-08-04 08:49:27,579 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:49:27,580 - INFO -   Date range: 2022-01-03 00:00:00 to 2022-12-30 00:00:00
+2025-08-04 08:49:27,580 - INFO - Price: int64 (no null values)
+2025-08-04 08:49:27,581 - INFO -   Price range: 12,700 - 180,000
+2025-08-04 08:49:27,582 - INFO - Successfully processed 2022.xlsx for kab-sintang
+2025-08-04 08:49:27,660 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:49:27,667 - INFO - Price conversion: 8060/8060 successful (100.0%)
+2025-08-04 08:49:27,670 - INFO - Date conversion: 8060/8060 successful (100.0%)
+2025-08-04 08:49:27,672 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:49:27,672 - INFO - Commodities: category (no null values)
+2025-08-04 08:49:27,673 - INFO - City: category (no null values)
+2025-08-04 08:49:27,673 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:49:27,674 - INFO -   Date range: 2023-01-02 00:00:00 to 2023-12-29 00:00:00
+2025-08-04 08:49:27,675 - INFO - Price: int64 (no null values)
+2025-08-04 08:49:27,676 - INFO -   Price range: 11,900 - 275,000
+2025-08-04 08:49:27,678 - INFO - Successfully processed 2023.xlsx for kab-sintang
+2025-08-04 08:49:27,759 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:49:27,765 - INFO - Price conversion: 8122/8122 successful (100.0%)
+2025-08-04 08:49:27,767 - INFO - Date conversion: 8122/8122 successful (100.0%)
+2025-08-04 08:49:27,769 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:49:27,770 - INFO - Commodities: category (no null values)
+2025-08-04 08:49:27,771 - INFO - City: category (no null values)
+2025-08-04 08:49:27,772 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:49:27,773 - INFO -   Date range: 2024-01-01 00:00:00 to 2024-12-31 00:00:00
+2025-08-04 08:49:27,773 - INFO - Price: int64 (no null values)
+2025-08-04 08:49:27,774 - INFO -   Price range: 14,250 - 303,250
+2025-08-04 08:49:27,775 - INFO - Successfully processed 2024.xlsx for kab-sintang
+2025-08-04 08:49:27,826 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:49:27,830 - INFO - Price conversion: 3393/3393 successful (100.0%)
+2025-08-04 08:49:27,836 - INFO - Date conversion: 3393/3393 successful (100.0%)
+2025-08-04 08:49:27,838 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:49:27,838 - INFO - Commodities: category (no null values)
+2025-08-04 08:49:27,839 - INFO - City: category (no null values)
+2025-08-04 08:49:27,840 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:49:27,840 - INFO -   Date range: 2018-01-01 00:00:00 to 2018-12-31 00:00:00
+2025-08-04 08:49:27,841 - INFO - Price: int64 (no null values)
+2025-08-04 08:49:27,842 - INFO -   Price range: 12,900 - 39,900
+2025-08-04 08:49:27,843 - INFO - Successfully processed 2018.xlsx for kota-pontianak
+2025-08-04 08:49:27,893 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:49:27,897 - INFO - Price conversion: 3393/3393 successful (100.0%)
+2025-08-04 08:49:27,903 - INFO - Date conversion: 3393/3393 successful (100.0%)
+2025-08-04 08:49:27,905 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:49:27,906 - INFO - Commodities: category (no null values)
+2025-08-04 08:49:27,907 - INFO - City: category (no null values)
+2025-08-04 08:49:27,907 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:49:27,908 - INFO -   Date range: 2019-01-01 00:00:00 to 2019-12-31 00:00:00
+2025-08-04 08:49:27,909 - INFO - Price: int64 (no null values)
+2025-08-04 08:49:27,910 - INFO -   Price range: 13,000 - 39,500
+2025-08-04 08:49:27,912 - INFO - Successfully processed 2019.xlsx for kota-pontianak
+2025-08-04 08:49:27,966 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:49:27,969 - INFO - Price conversion: 3406/3406 successful (100.0%)
+2025-08-04 08:49:27,976 - INFO - Date conversion: 3406/3406 successful (100.0%)
+2025-08-04 08:49:27,980 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:49:27,982 - INFO - Commodities: category (no null values)
+2025-08-04 08:49:27,982 - INFO - City: category (no null values)
+2025-08-04 08:49:27,983 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:49:27,985 - INFO -   Date range: 2020-01-01 00:00:00 to 2020-12-31 00:00:00
+2025-08-04 08:49:27,986 - INFO - Price: int64 (no null values)
+2025-08-04 08:49:27,987 - INFO -   Price range: 12,950 - 62,650
+2025-08-04 08:49:27,989 - INFO - Successfully processed 2020.xlsx for kota-pontianak
+2025-08-04 08:49:28,119 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:49:28,122 - INFO - Price conversion: 3393/3393 successful (100.0%)
+2025-08-04 08:49:28,129 - INFO - Date conversion: 3393/3393 successful (100.0%)
+2025-08-04 08:49:28,130 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:49:28,130 - INFO - Commodities: category (no null values)
+2025-08-04 08:49:28,132 - INFO - City: category (no null values)
+2025-08-04 08:49:28,132 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:49:28,133 - INFO -   Date range: 2021-01-01 00:00:00 to 2021-12-31 00:00:00
+2025-08-04 08:49:28,134 - INFO - Price: int64 (no null values)
+2025-08-04 08:49:28,135 - INFO -   Price range: 12,850 - 40,400
+2025-08-04 08:49:28,136 - INFO - Successfully processed 2021.xlsx for kota-pontianak
+2025-08-04 08:49:28,184 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:49:28,188 - INFO - Price conversion: 3380/3380 successful (100.0%)
+2025-08-04 08:49:28,193 - INFO - Date conversion: 3380/3380 successful (100.0%)
+2025-08-04 08:49:28,196 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:49:28,196 - INFO - Commodities: category (no null values)
+2025-08-04 08:49:28,196 - INFO - City: category (no null values)
+2025-08-04 08:49:28,198 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:49:28,199 - INFO -   Date range: 2022-01-03 00:00:00 to 2022-12-30 00:00:00
+2025-08-04 08:49:28,199 - INFO - Price: int64 (no null values)
+2025-08-04 08:49:28,200 - INFO -   Price range: 12,900 - 72,500
+2025-08-04 08:49:28,201 - INFO - Successfully processed 2022.xlsx for kota-pontianak
+2025-08-04 08:49:28,251 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:49:28,254 - INFO - Price conversion: 3380/3380 successful (100.0%)
+2025-08-04 08:49:28,259 - INFO - Date conversion: 3380/3380 successful (100.0%)
+2025-08-04 08:49:28,261 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:49:28,262 - INFO - Commodities: category (no null values)
+2025-08-04 08:49:28,263 - INFO - City: category (no null values)
+2025-08-04 08:49:28,264 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:49:28,265 - INFO -   Date range: 2023-01-02 00:00:00 to 2023-12-29 00:00:00
+2025-08-04 08:49:28,266 - INFO - Price: int64 (no null values)
+2025-08-04 08:49:28,266 - INFO -   Price range: 13,750 - 53,900
+2025-08-04 08:49:28,268 - INFO - Successfully processed 2023.xlsx for kota-pontianak
+2025-08-04 08:49:28,351 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:49:28,356 - INFO - Price conversion: 8122/8122 successful (100.0%)
+2025-08-04 08:49:28,359 - INFO - Date conversion: 8122/8122 successful (100.0%)
+2025-08-04 08:49:28,361 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:49:28,362 - INFO - Commodities: category (no null values)
+2025-08-04 08:49:28,363 - INFO - City: category (no null values)
+2025-08-04 08:49:28,364 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:49:28,365 - INFO -   Date range: 2024-01-01 00:00:00 to 2024-12-31 00:00:00
+2025-08-04 08:49:28,365 - INFO - Price: int64 (no null values)
+2025-08-04 08:49:28,366 - INFO -   Price range: 13,000 - 160,000
+2025-08-04 08:49:28,367 - INFO - Successfully processed 2024.xlsx for kota-pontianak
+2025-08-04 08:49:28,421 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:49:28,425 - INFO - Price conversion: 3915/3915 successful (100.0%)
+2025-08-04 08:49:28,428 - INFO - Date conversion: 3915/3915 successful (100.0%)
+2025-08-04 08:49:28,430 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:49:28,431 - INFO - Commodities: category (no null values)
+2025-08-04 08:49:28,432 - INFO - City: category (no null values)
+2025-08-04 08:49:28,432 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:49:28,433 - INFO -   Date range: 2018-01-01 00:00:00 to 2018-12-31 00:00:00
+2025-08-04 08:49:28,433 - INFO - Price: int64 (no null values)
+2025-08-04 08:49:28,434 - INFO -   Price range: 9,500 - 42,000
+2025-08-04 08:49:28,435 - INFO - Successfully processed 2018.xlsx for kota-singkawang
+2025-08-04 08:49:28,488 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:49:28,491 - INFO - Price conversion: 3915/3915 successful (100.0%)
+2025-08-04 08:49:28,493 - INFO - Date conversion: 3915/3915 successful (100.0%)
+2025-08-04 08:49:28,496 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:49:28,496 - INFO - Commodities: category (no null values)
+2025-08-04 08:49:28,496 - INFO - City: category (no null values)
+2025-08-04 08:49:28,498 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:49:28,499 - INFO -   Date range: 2019-01-01 00:00:00 to 2019-12-31 00:00:00
+2025-08-04 08:49:28,500 - INFO - Price: int64 (no null values)
+2025-08-04 08:49:28,500 - INFO -   Price range: 9,750 - 40,750
+2025-08-04 08:49:28,502 - INFO - Successfully processed 2019.xlsx for kota-singkawang
+2025-08-04 08:49:28,554 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:49:28,557 - INFO - Price conversion: 3930/3930 successful (100.0%)
+2025-08-04 08:49:28,560 - INFO - Date conversion: 3930/3930 successful (100.0%)
+2025-08-04 08:49:28,562 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:49:28,562 - INFO - Commodities: category (no null values)
+2025-08-04 08:49:28,564 - INFO - City: category (no null values)
+2025-08-04 08:49:28,565 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:49:28,566 - INFO -   Date range: 2020-01-01 00:00:00 to 2020-12-31 00:00:00
+2025-08-04 08:49:28,567 - INFO - Price: int64 (no null values)
+2025-08-04 08:49:28,567 - INFO -   Price range: 9,900 - 58,750
+2025-08-04 08:49:28,569 - INFO - Successfully processed 2020.xlsx for kota-singkawang
+2025-08-04 08:49:28,652 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:49:28,655 - INFO - Price conversion: 3915/3915 successful (100.0%)
+2025-08-04 08:49:28,658 - INFO - Date conversion: 3915/3915 successful (100.0%)
+2025-08-04 08:49:28,662 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:49:28,664 - INFO - Commodities: category (no null values)
+2025-08-04 08:49:28,665 - INFO - City: category (no null values)
+2025-08-04 08:49:28,666 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:49:28,667 - INFO -   Date range: 2021-01-01 00:00:00 to 2021-12-31 00:00:00
+2025-08-04 08:49:28,669 - INFO - Price: int64 (no null values)
+2025-08-04 08:49:28,669 - INFO -   Price range: 10,000 - 41,250
+2025-08-04 08:49:28,671 - INFO - Successfully processed 2021.xlsx for kota-singkawang
+2025-08-04 08:49:28,723 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:49:28,727 - INFO - Price conversion: 3900/3900 successful (100.0%)
+2025-08-04 08:49:28,730 - INFO - Date conversion: 3900/3900 successful (100.0%)
+2025-08-04 08:49:28,731 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:49:28,732 - INFO - Commodities: category (no null values)
+2025-08-04 08:49:28,732 - INFO - City: category (no null values)
+2025-08-04 08:49:28,733 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:49:28,734 - INFO -   Date range: 2022-01-03 00:00:00 to 2022-12-30 00:00:00
+2025-08-04 08:49:28,735 - INFO - Price: int64 (no null values)
+2025-08-04 08:49:28,735 - INFO -   Price range: 9,750 - 44,500
+2025-08-04 08:49:28,736 - INFO - Successfully processed 2022.xlsx for kota-singkawang
+2025-08-04 08:49:28,788 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:49:28,792 - INFO - Price conversion: 3900/3900 successful (100.0%)
+2025-08-04 08:49:28,794 - INFO - Date conversion: 3900/3900 successful (100.0%)
+2025-08-04 08:49:28,797 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:49:28,797 - INFO - Commodities: category (no null values)
+2025-08-04 08:49:28,799 - INFO - City: category (no null values)
+2025-08-04 08:49:28,799 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:49:28,800 - INFO -   Date range: 2023-01-02 00:00:00 to 2023-12-29 00:00:00
+2025-08-04 08:49:28,801 - INFO - Price: int64 (no null values)
+2025-08-04 08:49:28,801 - INFO -   Price range: 9,900 - 44,500
+2025-08-04 08:49:28,803 - INFO - Successfully processed 2023.xlsx for kota-singkawang
+2025-08-04 08:49:28,943 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:49:28,949 - INFO - Price conversion: 7598/7598 successful (100.0%)
+2025-08-04 08:49:28,951 - INFO - Date conversion: 7598/7598 successful (100.0%)
+2025-08-04 08:49:28,953 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:49:28,954 - INFO - Commodities: category (no null values)
+2025-08-04 08:49:28,955 - INFO - City: category (no null values)
+2025-08-04 08:49:28,955 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:49:28,956 - INFO -   Date range: 2024-01-01 00:00:00 to 2024-12-31 00:00:00
+2025-08-04 08:49:28,957 - INFO - Price: int64 (no null values)
+2025-08-04 08:49:28,957 - INFO -   Price range: 12,750 - 160,000
+2025-08-04 08:49:28,958 - INFO - Successfully processed 2024.xlsx for kota-singkawang
+2025-08-04 08:49:29,011 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:49:29,015 - INFO - Price conversion: 3915/3915 successful (100.0%)
+2025-08-04 08:49:29,017 - INFO - Date conversion: 3915/3915 successful (100.0%)
+2025-08-04 08:49:29,019 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:49:29,020 - INFO - Commodities: category (no null values)
+2025-08-04 08:49:29,020 - INFO - City: category (no null values)
+2025-08-04 08:49:29,021 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:49:29,022 - INFO -   Date range: 2018-01-01 00:00:00 to 2018-12-31 00:00:00
+2025-08-04 08:49:29,022 - INFO - Price: int64 (no null values)
+2025-08-04 08:49:29,023 - INFO -   Price range: 9,400 - 49,500
+2025-08-04 08:49:29,024 - INFO - Successfully processed 2018.xlsx for kota-banjarmasin
+2025-08-04 08:49:29,077 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:49:29,082 - INFO - Price conversion: 3915/3915 successful (100.0%)
+2025-08-04 08:49:29,084 - INFO - Date conversion: 3915/3915 successful (100.0%)
+2025-08-04 08:49:29,086 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:49:29,087 - INFO - Commodities: category (no null values)
+2025-08-04 08:49:29,087 - INFO - City: category (no null values)
+2025-08-04 08:49:29,088 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:49:29,089 - INFO -   Date range: 2019-01-01 00:00:00 to 2019-12-31 00:00:00
+2025-08-04 08:49:29,089 - INFO - Price: int64 (no null values)
+2025-08-04 08:49:29,090 - INFO -   Price range: 9,400 - 61,250
+2025-08-04 08:49:29,091 - INFO - Successfully processed 2019.xlsx for kota-banjarmasin
+2025-08-04 08:49:29,144 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:49:29,147 - INFO - Price conversion: 3930/3930 successful (100.0%)
+2025-08-04 08:49:29,150 - INFO - Date conversion: 3930/3930 successful (100.0%)
+2025-08-04 08:49:29,151 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:49:29,152 - INFO - Commodities: category (no null values)
+2025-08-04 08:49:29,152 - INFO - City: category (no null values)
+2025-08-04 08:49:29,153 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:49:29,154 - INFO -   Date range: 2020-01-01 00:00:00 to 2020-12-31 00:00:00
+2025-08-04 08:49:29,155 - INFO - Price: int64 (no null values)
+2025-08-04 08:49:29,155 - INFO -   Price range: 10,650 - 65,000
+2025-08-04 08:49:29,156 - INFO - Successfully processed 2020.xlsx for kota-banjarmasin
+2025-08-04 08:49:29,209 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:49:29,213 - INFO - Price conversion: 3915/3915 successful (100.0%)
+2025-08-04 08:49:29,215 - INFO - Date conversion: 3915/3915 successful (100.0%)
+2025-08-04 08:49:29,217 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:49:29,217 - INFO - Commodities: category (no null values)
+2025-08-04 08:49:29,218 - INFO - City: category (no null values)
+2025-08-04 08:49:29,219 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:49:29,220 - INFO -   Date range: 2021-01-01 00:00:00 to 2021-12-31 00:00:00
+2025-08-04 08:49:29,221 - INFO - Price: int64 (no null values)
+2025-08-04 08:49:29,221 - INFO -   Price range: 10,950 - 46,750
+2025-08-04 08:49:29,222 - INFO - Successfully processed 2021.xlsx for kota-banjarmasin
+2025-08-04 08:49:29,275 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:49:29,278 - INFO - Price conversion: 3900/3900 successful (100.0%)
+2025-08-04 08:49:29,282 - INFO - Date conversion: 3900/3900 successful (100.0%)
+2025-08-04 08:49:29,284 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:49:29,284 - INFO - Commodities: category (no null values)
+2025-08-04 08:49:29,285 - INFO - City: category (no null values)
+2025-08-04 08:49:29,286 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:49:29,286 - INFO -   Date range: 2022-01-03 00:00:00 to 2022-12-30 00:00:00
+2025-08-04 08:49:29,287 - INFO - Price: int64 (no null values)
+2025-08-04 08:49:29,287 - INFO -   Price range: 10,650 - 76,250
+2025-08-04 08:49:29,288 - INFO - Successfully processed 2022.xlsx for kota-banjarmasin
+2025-08-04 08:49:29,339 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:49:29,343 - INFO - Price conversion: 3900/3900 successful (100.0%)
+2025-08-04 08:49:29,345 - INFO - Date conversion: 3900/3900 successful (100.0%)
+2025-08-04 08:49:29,347 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:49:29,349 - INFO - Commodities: category (no null values)
+2025-08-04 08:49:29,350 - INFO - City: category (no null values)
+2025-08-04 08:49:29,351 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:49:29,352 - INFO -   Date range: 2023-01-02 00:00:00 to 2023-12-29 00:00:00
+2025-08-04 08:49:29,352 - INFO - Price: int64 (no null values)
+2025-08-04 08:49:29,353 - INFO -   Price range: 12,350 - 50,000
+2025-08-04 08:49:29,354 - INFO - Successfully processed 2023.xlsx for kota-banjarmasin
+2025-08-04 08:49:29,432 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:49:29,439 - INFO - Price conversion: 8122/8122 successful (100.0%)
+2025-08-04 08:49:29,440 - INFO - Date conversion: 8122/8122 successful (100.0%)
+2025-08-04 08:49:29,442 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:49:29,443 - INFO - Commodities: category (no null values)
+2025-08-04 08:49:29,443 - INFO - City: category (no null values)
+2025-08-04 08:49:29,444 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:49:29,445 - INFO -   Date range: 2024-01-01 00:00:00 to 2024-12-31 00:00:00
+2025-08-04 08:49:29,446 - INFO - Price: int64 (no null values)
+2025-08-04 08:49:29,446 - INFO -   Price range: 13,000 - 166,250
+2025-08-04 08:49:29,449 - INFO - Successfully processed 2024.xlsx for kota-banjarmasin
+2025-08-04 08:49:29,501 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:49:29,505 - INFO - Price conversion: 3915/3915 successful (100.0%)
+2025-08-04 08:49:29,506 - INFO - Date conversion: 3915/3915 successful (100.0%)
+2025-08-04 08:49:29,508 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:49:29,509 - INFO - Commodities: category (no null values)
+2025-08-04 08:49:29,510 - INFO - City: category (no null values)
+2025-08-04 08:49:29,511 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:49:29,513 - INFO -   Date range: 2018-01-01 00:00:00 to 2018-12-31 00:00:00
+2025-08-04 08:49:29,513 - INFO - Price: int64 (no null values)
+2025-08-04 08:49:29,514 - INFO -   Price range: 8,150 - 45,000
+2025-08-04 08:49:29,515 - INFO - Successfully processed 2018.xlsx for kota-tanjung
+2025-08-04 08:49:29,567 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:49:29,570 - INFO - Price conversion: 3915/3915 successful (100.0%)
+2025-08-04 08:49:29,572 - INFO - Date conversion: 3915/3915 successful (100.0%)
+2025-08-04 08:49:29,573 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:49:29,574 - INFO - Commodities: category (no null values)
+2025-08-04 08:49:29,575 - INFO - City: category (no null values)
+2025-08-04 08:49:29,576 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:49:29,577 - INFO -   Date range: 2019-01-01 00:00:00 to 2019-12-31 00:00:00
+2025-08-04 08:49:29,578 - INFO - Price: int64 (no null values)
+2025-08-04 08:49:29,579 - INFO -   Price range: 8,250 - 60,000
+2025-08-04 08:49:29,581 - INFO - Successfully processed 2019.xlsx for kota-tanjung
+2025-08-04 08:49:29,697 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:49:29,700 - INFO - Price conversion: 3930/3930 successful (100.0%)
+2025-08-04 08:49:29,702 - INFO - Date conversion: 3930/3930 successful (100.0%)
+2025-08-04 08:49:29,704 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:49:29,704 - INFO - Commodities: category (no null values)
+2025-08-04 08:49:29,705 - INFO - City: category (no null values)
+2025-08-04 08:49:29,706 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:49:29,707 - INFO -   Date range: 2020-01-01 00:00:00 to 2020-12-31 00:00:00
+2025-08-04 08:49:29,707 - INFO - Price: int64 (no null values)
+2025-08-04 08:49:29,708 - INFO -   Price range: 8,750 - 65,000
+2025-08-04 08:49:29,709 - INFO - Successfully processed 2020.xlsx for kota-tanjung
+2025-08-04 08:49:29,762 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:49:29,766 - INFO - Price conversion: 3915/3915 successful (100.0%)
+2025-08-04 08:49:29,768 - INFO - Date conversion: 3915/3915 successful (100.0%)
+2025-08-04 08:49:29,770 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:49:29,771 - INFO - Commodities: category (no null values)
+2025-08-04 08:49:29,771 - INFO - City: category (no null values)
+2025-08-04 08:49:29,772 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:49:29,773 - INFO -   Date range: 2021-01-01 00:00:00 to 2021-12-31 00:00:00
+2025-08-04 08:49:29,774 - INFO - Price: int64 (no null values)
+2025-08-04 08:49:29,774 - INFO -   Price range: 8,750 - 46,500
+2025-08-04 08:49:29,775 - INFO - Successfully processed 2021.xlsx for kota-tanjung
+2025-08-04 08:49:29,845 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:49:29,852 - INFO - Price conversion: 3900/3900 successful (100.0%)
+2025-08-04 08:49:29,855 - INFO - Date conversion: 3900/3900 successful (100.0%)
+2025-08-04 08:49:29,857 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:49:29,859 - INFO - Commodities: category (no null values)
+2025-08-04 08:49:29,860 - INFO - City: category (no null values)
+2025-08-04 08:49:29,861 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:49:29,862 - INFO -   Date range: 2022-01-03 00:00:00 to 2022-12-30 00:00:00
+2025-08-04 08:49:29,863 - INFO - Price: int64 (no null values)
+2025-08-04 08:49:29,864 - INFO -   Price range: 8,750 - 72,500
+2025-08-04 08:49:29,865 - INFO - Successfully processed 2022.xlsx for kota-tanjung
+2025-08-04 08:49:29,929 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:49:29,932 - INFO - Price conversion: 3900/3900 successful (100.0%)
+2025-08-04 08:49:29,935 - INFO - Date conversion: 3900/3900 successful (100.0%)
+2025-08-04 08:49:29,936 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:49:29,936 - INFO - Commodities: category (no null values)
+2025-08-04 08:49:29,938 - INFO - City: category (no null values)
+2025-08-04 08:49:29,939 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:49:29,939 - INFO -   Date range: 2023-01-02 00:00:00 to 2023-12-29 00:00:00
+2025-08-04 08:49:29,940 - INFO - Price: int64 (no null values)
+2025-08-04 08:49:29,941 - INFO -   Price range: 11,900 - 50,000
+2025-08-04 08:49:29,942 - INFO - Successfully processed 2023.xlsx for kota-tanjung
+2025-08-04 08:49:30,020 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:49:30,025 - INFO - Price conversion: 8122/8122 successful (100.0%)
+2025-08-04 08:49:30,029 - INFO - Date conversion: 8122/8122 successful (100.0%)
+2025-08-04 08:49:30,031 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:49:30,031 - INFO - Commodities: category (no null values)
+2025-08-04 08:49:30,032 - INFO - City: category (no null values)
+2025-08-04 08:49:30,032 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:49:30,034 - INFO -   Date range: 2024-01-01 00:00:00 to 2024-12-31 00:00:00
+2025-08-04 08:49:30,035 - INFO - Price: int64 (no null values)
+2025-08-04 08:49:30,035 - INFO -   Price range: 10,500 - 160,000
+2025-08-04 08:49:30,036 - INFO - Successfully processed 2024.xlsx for kota-tanjung
+2025-08-04 08:49:30,092 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:49:30,096 - INFO - Price conversion: 3915/3915 successful (100.0%)
+2025-08-04 08:49:30,098 - INFO - Date conversion: 3915/3915 successful (100.0%)
+2025-08-04 08:49:30,100 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:49:30,101 - INFO - Commodities: category (no null values)
+2025-08-04 08:49:30,102 - INFO - City: category (no null values)
+2025-08-04 08:49:30,102 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:49:30,103 - INFO -   Date range: 2018-01-01 00:00:00 to 2018-12-31 00:00:00
+2025-08-04 08:49:30,104 - INFO - Price: int64 (no null values)
+2025-08-04 08:49:30,104 - INFO -   Price range: 8,800 - 132,250
+2025-08-04 08:49:30,106 - INFO - Successfully processed 2018.xlsx for kota-palangkaraya
+2025-08-04 08:49:30,161 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:49:30,165 - INFO - Price conversion: 3915/3915 successful (100.0%)
+2025-08-04 08:49:30,168 - INFO - Date conversion: 3915/3915 successful (100.0%)
+2025-08-04 08:49:30,170 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:49:30,170 - INFO - Commodities: category (no null values)
+2025-08-04 08:49:30,171 - INFO - City: category (no null values)
+2025-08-04 08:49:30,172 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:49:30,172 - INFO -   Date range: 2019-01-01 00:00:00 to 2019-12-31 00:00:00
+2025-08-04 08:49:30,173 - INFO - Price: int64 (no null values)
+2025-08-04 08:49:30,174 - INFO -   Price range: 10,450 - 60,000
+2025-08-04 08:49:30,175 - INFO - Successfully processed 2019.xlsx for kota-palangkaraya
+2025-08-04 08:49:30,229 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:49:30,232 - INFO - Price conversion: 3930/3930 successful (100.0%)
+2025-08-04 08:49:30,235 - INFO - Date conversion: 3930/3930 successful (100.0%)
+2025-08-04 08:49:30,237 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:49:30,238 - INFO - Commodities: category (no null values)
+2025-08-04 08:49:30,238 - INFO - City: category (no null values)
+2025-08-04 08:49:30,239 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:49:30,240 - INFO -   Date range: 2020-01-01 00:00:00 to 2020-12-31 00:00:00
+2025-08-04 08:49:30,240 - INFO - Price: int64 (no null values)
+2025-08-04 08:49:30,241 - INFO -   Price range: 11,500 - 65,750
+2025-08-04 08:49:30,242 - INFO - Successfully processed 2020.xlsx for kota-palangkaraya
+2025-08-04 08:49:30,295 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:49:30,299 - INFO - Price conversion: 3915/3915 successful (100.0%)
+2025-08-04 08:49:30,300 - INFO - Date conversion: 3915/3915 successful (100.0%)
+2025-08-04 08:49:30,302 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:49:30,302 - INFO - Commodities: category (no null values)
+2025-08-04 08:49:30,303 - INFO - City: category (no null values)
+2025-08-04 08:49:30,304 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:49:30,304 - INFO -   Date range: 2021-01-01 00:00:00 to 2021-12-31 00:00:00
+2025-08-04 08:49:30,305 - INFO - Price: int64 (no null values)
+2025-08-04 08:49:30,306 - INFO -   Price range: 11,000 - 46,250
+2025-08-04 08:49:30,307 - INFO - Successfully processed 2021.xlsx for kota-palangkaraya
+2025-08-04 08:49:30,360 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:49:30,364 - INFO - Price conversion: 3900/3900 successful (100.0%)
+2025-08-04 08:49:30,366 - INFO - Date conversion: 3900/3900 successful (100.0%)
+2025-08-04 08:49:30,368 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:49:30,369 - INFO - Commodities: category (no null values)
+2025-08-04 08:49:30,369 - INFO - City: category (no null values)
+2025-08-04 08:49:30,370 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:49:30,371 - INFO -   Date range: 2022-01-03 00:00:00 to 2022-12-30 00:00:00
+2025-08-04 08:49:30,372 - INFO - Price: int64 (no null values)
+2025-08-04 08:49:30,372 - INFO -   Price range: 11,000 - 73,750
+2025-08-04 08:49:30,373 - INFO - Successfully processed 2022.xlsx for kota-palangkaraya
+2025-08-04 08:49:30,496 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:49:30,499 - INFO - Price conversion: 3900/3900 successful (100.0%)
+2025-08-04 08:49:30,501 - INFO - Date conversion: 3900/3900 successful (100.0%)
+2025-08-04 08:49:30,503 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:49:30,503 - INFO - Commodities: category (no null values)
+2025-08-04 08:49:30,504 - INFO - City: category (no null values)
+2025-08-04 08:49:30,505 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:49:30,505 - INFO -   Date range: 2023-01-02 00:00:00 to 2023-12-29 00:00:00
+2025-08-04 08:49:30,506 - INFO - Price: int64 (no null values)
+2025-08-04 08:49:30,507 - INFO -   Price range: 11,900 - 51,500
+2025-08-04 08:49:30,509 - INFO - Successfully processed 2023.xlsx for kota-palangkaraya
+2025-08-04 08:49:30,589 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:49:30,595 - INFO - Price conversion: 8122/8122 successful (100.0%)
+2025-08-04 08:49:30,598 - INFO - Date conversion: 8122/8122 successful (100.0%)
+2025-08-04 08:49:30,601 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:49:30,602 - INFO - Commodities: category (no null values)
+2025-08-04 08:49:30,603 - INFO - City: category (no null values)
+2025-08-04 08:49:30,604 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:49:30,604 - INFO -   Date range: 2024-01-01 00:00:00 to 2024-12-31 00:00:00
+2025-08-04 08:49:30,605 - INFO - Price: int64 (no null values)
+2025-08-04 08:49:30,606 - INFO -   Price range: 14,500 - 160,000
+2025-08-04 08:49:30,607 - INFO - Successfully processed 2024.xlsx for kota-palangkaraya
+2025-08-04 08:49:30,659 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:49:30,663 - INFO - Price conversion: 3915/3915 successful (100.0%)
+2025-08-04 08:49:30,666 - INFO - Date conversion: 3915/3915 successful (100.0%)
+2025-08-04 08:49:30,667 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:49:30,668 - INFO - Commodities: category (no null values)
+2025-08-04 08:49:30,669 - INFO - City: category (no null values)
+2025-08-04 08:49:30,670 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:49:30,671 - INFO -   Date range: 2018-01-01 00:00:00 to 2018-12-31 00:00:00
+2025-08-04 08:49:30,671 - INFO - Price: int64 (no null values)
+2025-08-04 08:49:30,672 - INFO -   Price range: 10,400 - 53,500
+2025-08-04 08:49:30,673 - INFO - Successfully processed 2018.xlsx for kota-sampit
+2025-08-04 08:49:30,726 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:49:30,730 - INFO - Price conversion: 3915/3915 successful (100.0%)
+2025-08-04 08:49:30,732 - INFO - Date conversion: 3915/3915 successful (100.0%)
+2025-08-04 08:49:30,734 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:49:30,734 - INFO - Commodities: category (no null values)
+2025-08-04 08:49:30,735 - INFO - City: category (no null values)
+2025-08-04 08:49:30,735 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:49:30,736 - INFO -   Date range: 2019-01-01 00:00:00 to 2019-12-31 00:00:00
+2025-08-04 08:49:30,736 - INFO - Price: int64 (no null values)
+2025-08-04 08:49:30,738 - INFO -   Price range: 10,750 - 50,000
+2025-08-04 08:49:30,739 - INFO - Successfully processed 2019.xlsx for kota-sampit
+2025-08-04 08:49:30,791 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:49:30,795 - INFO - Price conversion: 3930/3930 successful (100.0%)
+2025-08-04 08:49:30,797 - INFO - Date conversion: 3930/3930 successful (100.0%)
+2025-08-04 08:49:30,800 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:49:30,800 - INFO - Commodities: category (no null values)
+2025-08-04 08:49:30,801 - INFO - City: category (no null values)
+2025-08-04 08:49:30,802 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:49:30,802 - INFO -   Date range: 2020-01-01 00:00:00 to 2020-12-31 00:00:00
+2025-08-04 08:49:30,803 - INFO - Price: int64 (no null values)
+2025-08-04 08:49:30,804 - INFO -   Price range: 11,000 - 64,750
+2025-08-04 08:49:30,805 - INFO - Successfully processed 2020.xlsx for kota-sampit
+2025-08-04 08:49:30,857 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:49:30,861 - INFO - Price conversion: 3915/3915 successful (100.0%)
+2025-08-04 08:49:30,864 - INFO - Date conversion: 3915/3915 successful (100.0%)
+2025-08-04 08:49:30,865 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:49:30,866 - INFO - Commodities: category (no null values)
+2025-08-04 08:49:30,867 - INFO - City: category (no null values)
+2025-08-04 08:49:30,867 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:49:30,868 - INFO -   Date range: 2021-01-01 00:00:00 to 2021-12-31 00:00:00
+2025-08-04 08:49:30,869 - INFO - Price: int64 (no null values)
+2025-08-04 08:49:30,870 - INFO -   Price range: 9,750 - 47,500
+2025-08-04 08:49:30,871 - INFO - Successfully processed 2021.xlsx for kota-sampit
+2025-08-04 08:49:30,922 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:49:30,926 - INFO - Price conversion: 3900/3900 successful (100.0%)
+2025-08-04 08:49:30,930 - INFO - Date conversion: 3900/3900 successful (100.0%)
+2025-08-04 08:49:30,932 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:49:30,933 - INFO - Commodities: category (no null values)
+2025-08-04 08:49:30,934 - INFO - City: category (no null values)
+2025-08-04 08:49:30,934 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:49:30,935 - INFO -   Date range: 2022-01-03 00:00:00 to 2022-12-30 00:00:00
+2025-08-04 08:49:30,935 - INFO - Price: int64 (no null values)
+2025-08-04 08:49:30,936 - INFO -   Price range: 9,650 - 70,000
+2025-08-04 08:49:30,937 - INFO - Successfully processed 2022.xlsx for kota-sampit
+2025-08-04 08:49:31,015 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:49:31,021 - INFO - Price conversion: 3900/3900 successful (100.0%)
+2025-08-04 08:49:31,024 - INFO - Date conversion: 3900/3900 successful (100.0%)
+2025-08-04 08:49:31,028 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:49:31,029 - INFO - Commodities: category (no null values)
+2025-08-04 08:49:31,029 - INFO - City: category (no null values)
+2025-08-04 08:49:31,030 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:49:31,032 - INFO -   Date range: 2023-01-02 00:00:00 to 2023-12-29 00:00:00
+2025-08-04 08:49:31,033 - INFO - Price: int64 (no null values)
+2025-08-04 08:49:31,033 - INFO -   Price range: 11,400 - 53,750
+2025-08-04 08:49:31,035 - INFO - Successfully processed 2023.xlsx for kota-sampit
+2025-08-04 08:49:31,117 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:49:31,122 - INFO - Price conversion: 8122/8122 successful (100.0%)
+2025-08-04 08:49:31,125 - INFO - Date conversion: 8122/8122 successful (100.0%)
+2025-08-04 08:49:31,127 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:49:31,129 - INFO - Commodities: category (no null values)
+2025-08-04 08:49:31,130 - INFO - City: category (no null values)
+2025-08-04 08:49:31,130 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:49:31,132 - INFO -   Date range: 2024-01-01 00:00:00 to 2024-12-31 00:00:00
+2025-08-04 08:49:31,132 - INFO - Price: int64 (no null values)
+2025-08-04 08:49:31,133 - INFO -   Price range: 14,000 - 162,500
+2025-08-04 08:49:31,134 - INFO - Successfully processed 2024.xlsx for kota-sampit
+2025-08-04 08:49:31,253 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:49:31,256 - INFO - Price conversion: 3915/3915 successful (100.0%)
+2025-08-04 08:49:31,257 - INFO - Date conversion: 3915/3915 successful (100.0%)
+2025-08-04 08:49:31,260 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:49:31,260 - INFO - Commodities: category (no null values)
+2025-08-04 08:49:31,261 - INFO - City: category (no null values)
+2025-08-04 08:49:31,262 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:49:31,263 - INFO -   Date range: 2018-01-01 00:00:00 to 2018-12-31 00:00:00
+2025-08-04 08:49:31,264 - INFO - Price: int64 (no null values)
+2025-08-04 08:49:31,264 - INFO -   Price range: 9,950 - 45,000
+2025-08-04 08:49:31,265 - INFO - Successfully processed 2018.xlsx for kota-balikpapan
+2025-08-04 08:49:31,318 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:49:31,321 - INFO - Price conversion: 3915/3915 successful (100.0%)
+2025-08-04 08:49:31,323 - INFO - Date conversion: 3915/3915 successful (100.0%)
+2025-08-04 08:49:31,325 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:49:31,326 - INFO - Commodities: category (no null values)
+2025-08-04 08:49:31,326 - INFO - City: category (no null values)
+2025-08-04 08:49:31,327 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:49:31,328 - INFO -   Date range: 2019-01-01 00:00:00 to 2019-12-31 00:00:00
+2025-08-04 08:49:31,329 - INFO - Price: int64 (no null values)
+2025-08-04 08:49:31,329 - INFO -   Price range: 10,650 - 95,000
+2025-08-04 08:49:31,331 - INFO - Successfully processed 2019.xlsx for kota-balikpapan
+2025-08-04 08:49:31,384 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:49:31,387 - INFO - Price conversion: 3930/3930 successful (100.0%)
+2025-08-04 08:49:31,389 - INFO - Date conversion: 3930/3930 successful (100.0%)
+2025-08-04 08:49:31,391 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:49:31,391 - INFO - Commodities: category (no null values)
+2025-08-04 08:49:31,392 - INFO - City: category (no null values)
+2025-08-04 08:49:31,393 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:49:31,394 - INFO -   Date range: 2020-01-01 00:00:00 to 2020-12-31 00:00:00
+2025-08-04 08:49:31,395 - INFO - Price: int64 (no null values)
+2025-08-04 08:49:31,396 - INFO -   Price range: 10,250 - 66,250
+2025-08-04 08:49:31,397 - INFO - Successfully processed 2020.xlsx for kota-balikpapan
+2025-08-04 08:49:31,449 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:49:31,452 - INFO - Price conversion: 3915/3915 successful (100.0%)
+2025-08-04 08:49:31,454 - INFO - Date conversion: 3915/3915 successful (100.0%)
+2025-08-04 08:49:31,456 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:49:31,456 - INFO - Commodities: category (no null values)
+2025-08-04 08:49:31,457 - INFO - City: category (no null values)
+2025-08-04 08:49:31,457 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:49:31,458 - INFO -   Date range: 2021-01-01 00:00:00 to 2021-12-31 00:00:00
+2025-08-04 08:49:31,459 - INFO - Price: int64 (no null values)
+2025-08-04 08:49:31,460 - INFO -   Price range: 10,750 - 39,000
+2025-08-04 08:49:31,461 - INFO - Successfully processed 2021.xlsx for kota-balikpapan
+2025-08-04 08:49:31,514 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:49:31,517 - INFO - Price conversion: 3900/3900 successful (100.0%)
+2025-08-04 08:49:31,519 - INFO - Date conversion: 3900/3900 successful (100.0%)
+2025-08-04 08:49:31,521 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:49:31,522 - INFO - Commodities: category (no null values)
+2025-08-04 08:49:31,522 - INFO - City: category (no null values)
+2025-08-04 08:49:31,523 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:49:31,524 - INFO -   Date range: 2022-01-03 00:00:00 to 2022-12-30 00:00:00
+2025-08-04 08:49:31,525 - INFO - Price: int64 (no null values)
+2025-08-04 08:49:31,526 - INFO -   Price range: 9,350 - 88,750
+2025-08-04 08:49:31,527 - INFO - Successfully processed 2022.xlsx for kota-balikpapan
+2025-08-04 08:49:31,580 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:49:31,583 - INFO - Price conversion: 3900/3900 successful (100.0%)
+2025-08-04 08:49:31,585 - INFO - Date conversion: 3900/3900 successful (100.0%)
+2025-08-04 08:49:31,586 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:49:31,587 - INFO - Commodities: category (no null values)
+2025-08-04 08:49:31,587 - INFO - City: category (no null values)
+2025-08-04 08:49:31,588 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:49:31,589 - INFO -   Date range: 2023-01-02 00:00:00 to 2023-12-29 00:00:00
+2025-08-04 08:49:31,590 - INFO - Price: int64 (no null values)
+2025-08-04 08:49:31,590 - INFO -   Price range: 12,000 - 47,500
+2025-08-04 08:49:31,592 - INFO - Successfully processed 2023.xlsx for kota-balikpapan
+2025-08-04 08:49:31,670 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:49:31,676 - INFO - Price conversion: 8122/8122 successful (100.0%)
+2025-08-04 08:49:31,679 - INFO - Date conversion: 8122/8122 successful (100.0%)
+2025-08-04 08:49:31,681 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:49:31,682 - INFO - Commodities: category (no null values)
+2025-08-04 08:49:31,683 - INFO - City: category (no null values)
+2025-08-04 08:49:31,683 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:49:31,684 - INFO -   Date range: 2024-01-01 00:00:00 to 2024-12-31 00:00:00
+2025-08-04 08:49:31,685 - INFO - Price: int64 (no null values)
+2025-08-04 08:49:31,685 - INFO -   Price range: 12,800 - 165,000
+2025-08-04 08:49:31,687 - INFO - Successfully processed 2024.xlsx for kota-balikpapan
+2025-08-04 08:49:31,740 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:49:31,745 - INFO - Price conversion: 3915/3915 successful (100.0%)
+2025-08-04 08:49:31,747 - INFO - Date conversion: 3915/3915 successful (100.0%)
+2025-08-04 08:49:31,750 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:49:31,752 - INFO - Commodities: category (no null values)
+2025-08-04 08:49:31,753 - INFO - City: category (no null values)
+2025-08-04 08:49:31,753 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:49:31,755 - INFO -   Date range: 2018-01-01 00:00:00 to 2018-12-31 00:00:00
+2025-08-04 08:49:31,755 - INFO - Price: int64 (no null values)
+2025-08-04 08:49:31,756 - INFO -   Price range: 10,850 - 46,500
+2025-08-04 08:49:31,757 - INFO - Successfully processed 2018.xlsx for kota-samarinda
+2025-08-04 08:49:31,812 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:49:31,816 - INFO - Price conversion: 3915/3915 successful (100.0%)
+2025-08-04 08:49:31,817 - INFO - Date conversion: 3915/3915 successful (100.0%)
+2025-08-04 08:49:31,820 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:49:31,820 - INFO - Commodities: category (no null values)
+2025-08-04 08:49:31,821 - INFO - City: category (no null values)
+2025-08-04 08:49:31,822 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:49:31,822 - INFO -   Date range: 2019-01-01 00:00:00 to 2019-12-31 00:00:00
+2025-08-04 08:49:31,823 - INFO - Price: int64 (no null values)
+2025-08-04 08:49:31,824 - INFO -   Price range: 10,750 - 117,500
+2025-08-04 08:49:31,825 - INFO - Successfully processed 2019.xlsx for kota-samarinda
+2025-08-04 08:49:31,883 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:49:31,887 - INFO - Price conversion: 3930/3930 successful (100.0%)
+2025-08-04 08:49:31,889 - INFO - Date conversion: 3930/3930 successful (100.0%)
+2025-08-04 08:49:31,891 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:49:31,892 - INFO - Commodities: category (no null values)
+2025-08-04 08:49:31,893 - INFO - City: category (no null values)
+2025-08-04 08:49:31,894 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:49:31,895 - INFO -   Date range: 2020-01-01 00:00:00 to 2020-12-31 00:00:00
+2025-08-04 08:49:31,896 - INFO - Price: int64 (no null values)
+2025-08-04 08:49:31,897 - INFO -   Price range: 9,800 - 65,000
+2025-08-04 08:49:31,899 - INFO - Successfully processed 2020.xlsx for kota-samarinda
+2025-08-04 08:49:32,050 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:49:32,054 - INFO - Price conversion: 3915/3915 successful (100.0%)
+2025-08-04 08:49:32,056 - INFO - Date conversion: 3915/3915 successful (100.0%)
+2025-08-04 08:49:32,057 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:49:32,058 - INFO - Commodities: category (no null values)
+2025-08-04 08:49:32,059 - INFO - City: category (no null values)
+2025-08-04 08:49:32,060 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:49:32,061 - INFO -   Date range: 2021-01-01 00:00:00 to 2021-12-31 00:00:00
+2025-08-04 08:49:32,062 - INFO - Price: int64 (no null values)
+2025-08-04 08:49:32,063 - INFO -   Price range: 10,250 - 43,200
+2025-08-04 08:49:32,064 - INFO - Successfully processed 2021.xlsx for kota-samarinda
+2025-08-04 08:49:32,122 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:49:32,127 - INFO - Price conversion: 3900/3900 successful (100.0%)
+2025-08-04 08:49:32,130 - INFO - Date conversion: 3900/3900 successful (100.0%)
+2025-08-04 08:49:32,133 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:49:32,134 - INFO - Commodities: category (no null values)
+2025-08-04 08:49:32,134 - INFO - City: category (no null values)
+2025-08-04 08:49:32,135 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:49:32,136 - INFO -   Date range: 2022-01-03 00:00:00 to 2022-12-30 00:00:00
+2025-08-04 08:49:32,136 - INFO - Price: int64 (no null values)
+2025-08-04 08:49:32,138 - INFO -   Price range: 10,500 - 72,500
+2025-08-04 08:49:32,139 - INFO - Successfully processed 2022.xlsx for kota-samarinda
+2025-08-04 08:49:32,192 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:49:32,197 - INFO - Price conversion: 3900/3900 successful (100.0%)
+2025-08-04 08:49:32,199 - INFO - Date conversion: 3900/3900 successful (100.0%)
+2025-08-04 08:49:32,201 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:49:32,202 - INFO - Commodities: category (no null values)
+2025-08-04 08:49:32,203 - INFO - City: category (no null values)
+2025-08-04 08:49:32,204 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:49:32,205 - INFO -   Date range: 2023-01-02 00:00:00 to 2023-12-29 00:00:00
+2025-08-04 08:49:32,206 - INFO - Price: int64 (no null values)
+2025-08-04 08:49:32,208 - INFO -   Price range: 12,000 - 51,000
+2025-08-04 08:49:32,210 - INFO - Successfully processed 2023.xlsx for kota-samarinda
+2025-08-04 08:49:32,295 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:49:32,300 - INFO - Price conversion: 8122/8122 successful (100.0%)
+2025-08-04 08:49:32,302 - INFO - Date conversion: 8122/8122 successful (100.0%)
+2025-08-04 08:49:32,304 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:49:32,305 - INFO - Commodities: category (no null values)
+2025-08-04 08:49:32,306 - INFO - City: category (no null values)
+2025-08-04 08:49:32,306 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:49:32,307 - INFO -   Date range: 2024-01-01 00:00:00 to 2024-12-31 00:00:00
+2025-08-04 08:49:32,308 - INFO - Price: int64 (no null values)
+2025-08-04 08:49:32,309 - INFO -   Price range: 14,000 - 158,750
+2025-08-04 08:49:32,310 - INFO - Successfully processed 2024.xlsx for kota-samarinda
+2025-08-04 08:49:32,362 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:49:32,366 - INFO - Price conversion: 3915/3915 successful (100.0%)
+2025-08-04 08:49:32,369 - INFO - Date conversion: 3915/3915 successful (100.0%)
+2025-08-04 08:49:32,370 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:49:32,371 - INFO - Commodities: category (no null values)
+2025-08-04 08:49:32,371 - INFO - City: category (no null values)
+2025-08-04 08:49:32,372 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:49:32,373 - INFO -   Date range: 2018-01-01 00:00:00 to 2018-12-31 00:00:00
+2025-08-04 08:49:32,374 - INFO - Price: int64 (no null values)
+2025-08-04 08:49:32,374 - INFO -   Price range: 12,500 - 63,750
+2025-08-04 08:49:32,376 - INFO - Successfully processed 2018.xlsx for kota-tarakan
+2025-08-04 08:49:32,429 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:49:32,432 - INFO - Price conversion: 3915/3915 successful (100.0%)
+2025-08-04 08:49:32,434 - INFO - Date conversion: 3915/3915 successful (100.0%)
+2025-08-04 08:49:32,436 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:49:32,436 - INFO - Commodities: category (no null values)
+2025-08-04 08:49:32,437 - INFO - City: category (no null values)
+2025-08-04 08:49:32,438 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:49:32,438 - INFO -   Date range: 2019-01-01 00:00:00 to 2019-12-31 00:00:00
+2025-08-04 08:49:32,439 - INFO - Price: int64 (no null values)
+2025-08-04 08:49:32,440 - INFO -   Price range: 9,800 - 63,750
+2025-08-04 08:49:32,441 - INFO - Successfully processed 2019.xlsx for kota-tarakan
+2025-08-04 08:49:32,495 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:49:32,499 - INFO - Price conversion: 3930/3930 successful (100.0%)
+2025-08-04 08:49:32,501 - INFO - Date conversion: 3930/3930 successful (100.0%)
+2025-08-04 08:49:32,503 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:49:32,503 - INFO - Commodities: category (no null values)
+2025-08-04 08:49:32,504 - INFO - City: category (no null values)
+2025-08-04 08:49:32,505 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:49:32,505 - INFO -   Date range: 2020-01-01 00:00:00 to 2020-12-31 00:00:00
+2025-08-04 08:49:32,506 - INFO - Price: int64 (no null values)
+2025-08-04 08:49:32,507 - INFO -   Price range: 12,500 - 67,500
+2025-08-04 08:49:32,508 - INFO - Successfully processed 2020.xlsx for kota-tarakan
+2025-08-04 08:49:32,561 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:49:32,564 - INFO - Price conversion: 3915/3915 successful (100.0%)
+2025-08-04 08:49:32,567 - INFO - Date conversion: 3915/3915 successful (100.0%)
+2025-08-04 08:49:32,569 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:49:32,570 - INFO - Commodities: category (no null values)
+2025-08-04 08:49:32,570 - INFO - City: category (no null values)
+2025-08-04 08:49:32,571 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:49:32,572 - INFO -   Date range: 2021-01-01 00:00:00 to 2021-12-31 00:00:00
+2025-08-04 08:49:32,572 - INFO - Price: int64 (no null values)
+2025-08-04 08:49:32,573 - INFO -   Price range: 12,250 - 90,000
+2025-08-04 08:49:32,574 - INFO - Successfully processed 2021.xlsx for kota-tarakan
+2025-08-04 08:49:32,625 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:49:32,630 - INFO - Price conversion: 3900/3900 successful (100.0%)
+2025-08-04 08:49:32,632 - INFO - Date conversion: 3900/3900 successful (100.0%)
+2025-08-04 08:49:32,634 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:49:32,634 - INFO - Commodities: category (no null values)
+2025-08-04 08:49:32,635 - INFO - City: category (no null values)
+2025-08-04 08:49:32,635 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:49:32,636 - INFO -   Date range: 2022-01-03 00:00:00 to 2022-12-30 00:00:00
+2025-08-04 08:49:32,637 - INFO - Price: int64 (no null values)
+2025-08-04 08:49:32,637 - INFO -   Price range: 12,000 - 75,000
+2025-08-04 08:49:32,639 - INFO - Successfully processed 2022.xlsx for kota-tarakan
+2025-08-04 08:49:32,689 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:49:32,694 - INFO - Price conversion: 3900/3900 successful (100.0%)
+2025-08-04 08:49:32,696 - INFO - Date conversion: 3900/3900 successful (100.0%)
+2025-08-04 08:49:32,698 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:49:32,699 - INFO - Commodities: category (no null values)
+2025-08-04 08:49:32,700 - INFO - City: category (no null values)
+2025-08-04 08:49:32,700 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:49:32,701 - INFO -   Date range: 2023-01-02 00:00:00 to 2023-12-29 00:00:00
+2025-08-04 08:49:32,701 - INFO - Price: int64 (no null values)
+2025-08-04 08:49:32,702 - INFO -   Price range: 13,400 - 52,500
+2025-08-04 08:49:32,703 - INFO - Successfully processed 2023.xlsx for kota-tarakan
+2025-08-04 08:49:32,782 - INFO - Successfully handled all missing values with forward/backward fill
+2025-08-04 08:49:32,788 - INFO - Price conversion: 8122/8122 successful (100.0%)
+2025-08-04 08:49:32,789 - INFO - Date conversion: 8122/8122 successful (100.0%)
+2025-08-04 08:49:32,792 - INFO - === Data Type Conversion Results ===
+2025-08-04 08:49:32,792 - INFO - Commodities: category (no null values)
+2025-08-04 08:49:32,793 - INFO - City: category (no null values)
+2025-08-04 08:49:32,794 - INFO - Date: datetime64[ns] (no null values)
+2025-08-04 08:49:32,795 - INFO -   Date range: 2024-01-01 00:00:00 to 2024-12-31 00:00:00
+2025-08-04 08:49:32,796 - INFO - Price: int64 (no null values)
+2025-08-04 08:49:32,796 - INFO -   Price range: 14,500 - 150,000
+2025-08-04 08:49:32,798 - INFO - Successfully processed 2024.xlsx for kota-tarakan
+2025-08-04 08:49:32,798 - INFO - Successfully processed 70/70 files
+2025-08-04 08:49:32,799 - INFO - Consolidating data into master DataFrame...
+2025-08-04 08:49:32,814 - INFO - === Data Summary ===
+2025-08-04 08:49:32,814 - INFO - Total records: 91,350
+2025-08-04 08:49:32,818 - INFO - Cities: 10
+2025-08-04 08:49:32,822 - INFO - Commodities: 5
+2025-08-04 08:49:32,828 - INFO - Date range: 1827 unique dates
+2025-08-04 08:49:32,831 - INFO - === Data Types ===
+2025-08-04 08:49:32,832 - INFO - Commodities: object
+2025-08-04 08:49:32,834 - INFO - City: object
+2025-08-04 08:49:32,834 - INFO - Date: datetime64[ns]
+2025-08-04 08:49:32,835 - INFO - Price: int64
+2025-08-04 08:49:32,843 - INFO - No missing values in final dataset
+2025-08-04 08:49:32,850 - INFO - Cities included: kab-sintang, kota-balikpapan, kota-banjarmasin, kota-palangkaraya, kota-pontianak, kota-samarinda, kota-sampit, kota-singkawang, kota-tanjung, kota-tarakan
+2025-08-04 08:49:32,855 - INFO - Commodities included: Bawang Merah, Bawang Putih, Beras, Daging Ayam, Telur Ayam
+2025-08-04 08:49:32,860 - INFO - Price range: 9,600 - 133,000
+2025-08-04 08:49:32,862 - INFO - Average price: 29,093
+2025-08-04 08:49:32,864 - INFO - Data consolidation pipeline completed successfully!

@@ -1,0 +1,31 @@
+# Standard Full Analysis Configuration
+#
+# This configuration provides a balanced analysis covering:
+# - All default commodities for comprehensive coverage
+# - Recent years (2022-2024) for current trends
+# - All available cities for complete geographic representation
+
+target_commodities:
+    - "Beras"
+    - "Telur Ayam"
+    - "Daging Ayam"
+    - "Bawang Merah"
+    - "Bawang Putih"
+
+target_years: [2022, 2023, 2024]
+
+# Use all available cities (no filtering)
+# target_cities: []  # Commented out means all cities
+
+# Output configuration
+output_formats: ["csv", "excel"]
+csv_filename: "consolidated_data_full.csv"
+excel_filename: "consolidated_data_full.xlsx"
+
+# Logging configuration
+log_level: "INFO"
+enable_logging: true
+
+# Data processing settings
+missing_value_indicators: ["-", "", "nan", "NaN", "null", "NULL"]
+file_pattern: "*.xlsx"

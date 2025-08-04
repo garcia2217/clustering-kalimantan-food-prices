@@ -1,0 +1,6 @@
+# target_years: [2018, 2019, 2020, 2021, 2022, 2023]
+year_range_start: 2018
+year_range_end: 2023
+
+csv_filename: "2018_2023_consolidated.csv"
+excel_filename: "2018_2023_consolidated.xlsx"

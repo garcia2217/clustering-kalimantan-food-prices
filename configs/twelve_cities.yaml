@@ -1,0 +1,19 @@
+year_range_start: 2020
+year_range_end: 2024
+
+target_cities:
+    - "kab-sintang"
+    - "kab-bulungan"
+    - "kota-pontianak"
+    - "kota-singkawang"
+    - "kota-banjarmasin"
+    - "kota-tanjung"
+    - "kota-palangkaraya"
+    - "kota-sampit"
+    - "kota-balikpapan"
+    - "kota-samarinda"
+    - "kota-tarakan"
+    - "kota-bontang"
+
+csv_filename: "twelve_cities_consolidated.csv"
+excel_filename: "twelve_cities_consolidated.xlsx"
